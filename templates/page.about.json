@@ -1,0 +1,29 @@
+{
+  "sections": {
+    "about": {
+      "type": "about",
+      "settings": {
+          "page_header": "About us",
+          "about_image": "shopify://shop_images/about.jpg"
+        },
+        "blocks": {
+          "about_us_body": {
+            "type": "paragraph_body",
+            "settings": {
+              "paragraph_body_text": "Located at 119 Newbury Street, Boston MA."
+            }
+          }
+        },
+        "block_order": [
+          "about_us_body"
+        ]
+      },
+      "form": {
+        "type": "contact-form",
+        "settings": {
+          "heading": "Contact us"
+        }
+      }
+    },
+    "order": ["about", "form"]
+  }

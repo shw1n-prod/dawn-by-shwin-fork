@@ -1,0 +1,61 @@
+{{ 'section-about.css' | asset_url | stylesheet_tag }}
+
+<section class="about-container">
+  <div class="blocks-container">
+    <div class="text-container">
+      <h2>{{ section.settings.page_header }}</h2>
+      {%- for block in section.blocks -%}
+        {%- if block.type == 'paragraph_body' -%}
+          <p class="paragraph-body">{{ block.settings.paragraph_body_text }}</p>
+        {%- endif -%}
+      {%- endfor -%}
+    </div>
+    <img 
+      width="{{ section.settings.about_image.width }}"
+      height="{{ section.settings.about_image.height }}"
+      srcset="
+        {% if section.settings.about_image.width > 165 %},{{ section.settings.about_image.src | img_url: '165x' }} 165w{% endif %}
+        {% if section.settings.about_image.width > 280 %},{{ section.settings.about_image.src | img_url: '280x' }} 280w{% endif %}
+        {% if section.settings.about_image.width > 315 %},{{ section.settings.about_image.src | img_url: '315x' }} 315w{% endif %} 
+      "
+      src="{{ settings.about_image | img_url }}"
+      loading="lazy"
+      alt="{{ section.settings.about_image.alt }}"
+      class="about-image"
+    >
+  </div>
+</section>
+
+{% schema %}
+{
+  "name": "About",
+  "tag": "section",
+  "settings": [
+    {
+      "type": "text",
+      "id": "page_header",
+      "label": "Page Header"
+    },
+    {
+      "type": "image_picker",
+      "id": "about_image",
+      "label": "About Image",
+      "info": "Upload an image"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "paragraph_body",
+      "name": "Paragraph Body",
+      "settings": [
+        {
+          "type": "text",
+          "id": "paragraph_body_text",
+          "label": "Paragraph Body Text",
+          "default": "Modify your paragraph body text"
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}
