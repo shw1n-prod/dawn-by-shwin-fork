@@ -2,28 +2,34 @@
   "sections": {
     "about": {
       "type": "about",
-      "settings": {
-          "page_header": "About us",
-          "about_image": "shopify://shop_images/about.jpg"
-        },
-        "blocks": {
-          "about_us_body": {
-            "type": "paragraph_body",
-            "settings": {
-              "paragraph_body_text": "Located at 119 Newbury Street, Boston MA."
-            }
+      "blocks": {
+        "about_us_body": {
+          "type": "paragraph_body",
+          "settings": {
+            "paragraph_body_text": "Located at 119 Newbury Street, Boston MA."
           }
-        },
-        "block_order": [
-          "about_us_body"
-        ]
-      },
-      "form": {
-        "type": "contact-form",
-        "settings": {
-          "heading": "Contact us"
         }
+      },
+      "block_order": [
+        "about_us_body"
+      ],
+      "settings": {
+        "page_header": "About us",
+        "about_image": "shopify:\/\/shop_images\/AIGO_LOGO.png"
       }
     },
-    "order": ["about", "form"]
-  }
+    "form": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contact us",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "about",
+    "form"
+  ]
+}
