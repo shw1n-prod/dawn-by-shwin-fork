@@ -1,0 +1,14 @@
+{
+  "sections": {
+    "form": {
+      "type": "request-form",
+      "settings": {
+        "heading": "Request an item",
+        "description": "Want to see something in our store? Tell us a little about the item and we'll try to make it happen!"
+      }
+    }
+  },
+  "order": [
+    "form"
+  ]
+}
