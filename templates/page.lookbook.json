@@ -6,21 +6,21 @@
         "tall_image_1": {
           "type": "tall_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/AIGO_LOGO.png",
+            "image": "shopify:\/\/shop_images\/model-with-leather-jacket-over-shoulders.jpg",
             "description": "Tall image example"
           }
         },
         "square_image_1": {
           "type": "square_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/AIGO_LOGO.png",
+            "image": "shopify:\/\/shop_images\/model-with-leather-jacket-over-shoulders.jpg",
             "description": "Square image example"
           }
         },
         "horizontal_image_1": {
           "type": "horizontal_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/AIGO_LOGO.png",
+            "image": "shopify:\/\/shop_images\/model-with-leather-jacket-over-shoulders.jpg",
             "description": "Horizontal image example"
           }
         }
