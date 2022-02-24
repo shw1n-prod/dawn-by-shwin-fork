@@ -1,0 +1,130 @@
+{{ 'section-lookbook.css' | asset_url | stylesheet_tag }}
+
+<section class="lookbook-container">
+  <h2>{{ section.settings.page_header }}</h2>
+  <div class="images-container">
+      {%- for block in section.blocks -%}
+        {%- if block.type == 'tall_image' -%}
+          <div class="tall-image-container image-container">
+            <img 
+              width="{{ block.settings.image.width }}"
+              height="{{ block.settings.image.height }}"
+              srcset="
+                {% if block.settings.image.width > 165 %},{{ block.settings.image.src | img_url: '165x' }} 165w{% endif %}
+                {% if block.settings.image.width > 280 %},{{ block.settings.image.src | img_url: '280x' }} 280w{% endif %}
+                {% if block.settings.image.width > 315 %},{{ block.settings.image.src | img_url: '315x' }} 315w{% endif %} 
+              "
+              src="{{ block.image | img_url }}"
+              loading="lazy"
+              alt="{{ block.settings.image.alt }}"
+              class="tall-image"
+            >
+          </div>
+        {%- endif -%}
+        {%- if block.type == 'square_image' -%}
+          <div class="square-image-container image-container">
+            <img 
+              width="{{ block.settings.image.width }}"
+              height="{{ block.settings.image.height }}"
+              srcset="
+                {% if block.settings.image.width > 165 %},{{ block.settings.image.src | img_url: '165x' }} 165w{% endif %}
+                {% if block.settings.image.width > 280 %},{{ block.settings.image.src | img_url: '280x' }} 280w{% endif %}
+                {% if block.settings.image.width > 315 %},{{ block.settings.image.src | img_url: '315x' }} 315w{% endif %} 
+              "
+              src="{{ block.image | img_url }}"
+              loading="lazy"
+              alt="{{ block.settings.image.alt }}"
+              class="square-image"
+            >
+          </div>
+        {%- endif -%}
+        {%- if block.type == 'horizontal_image' -%}
+          <div class="horizontal-image-container image-container">
+            <img 
+              width="{{ block.settings.image.width }}"
+              height="{{ block.settings.image.height }}"
+              srcset="
+                {% if block.settings.image.width > 165 %},{{ block.settings.image.src | img_url: '165x' }} 165w{% endif %}
+                {% if block.settings.image.width > 280 %},{{ block.settings.image.src | img_url: '280x' }} 280w{% endif %}
+                {% if block.settings.image.width > 315 %},{{ block.settings.image.src | img_url: '315x' }} 315w{% endif %} 
+              "
+              src="{{ block.image | img_url }}"
+              loading="lazy"
+              alt="{{ block.settings.image.alt }}"
+              class="horizontal-image"
+            >
+          </div>
+        {%- endif -%}
+      {%- endfor -%}
+  </div>
+</section>
+
+{% schema %}
+{
+  "name": "Lookbook",
+  "tag": "section",
+  "settings": [
+    {
+      "type": "text",
+      "id": "page_header",
+      "label": "Page Header"
+    }
+  ],
+  "blocks": [
+    {
+      "type": "tall_image",
+      "name": "Tall Image",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image",
+          "info": "Upload an image"
+        },
+        {
+          "type": "text",
+          "id": "description",
+          "label": "Image Description",
+          "default": "Modify your image description"
+        }
+      ]
+    },
+    {
+      "type": "square_image",
+      "name": "Square Image",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image",
+          "info": "Upload an image"
+        },
+        {
+          "type": "text",
+          "id": "description",
+          "label": "Image Description",
+          "default": "Modify your image description"
+        }
+      ]
+    },
+    {
+      "type": "horizontal_image",
+      "name": "Horizontal Image",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image",
+          "info": "Upload an image"
+        },
+        {
+          "type": "text",
+          "id": "description",
+          "label": "Image Description",
+          "default": "Modify your image description"
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}
