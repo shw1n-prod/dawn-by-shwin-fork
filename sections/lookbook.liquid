@@ -62,7 +62,7 @@
 <script>
   document.querySelectorAll(".image-container").forEach((container) => {
     container.addEventListener("mouseover", () => {
-      let desc = container.firstElementChild
+      let desc = container.querySelector(".lookbook-desc");
       desc.style.visibility = "visible";
       
       document.addEventListener('mousemove', (e) => {
