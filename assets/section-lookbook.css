@@ -15,6 +15,8 @@
 .images-container .image-container {
   width: 100%;
   margin-bottom: 1rem;
+  position: relative;
+  cursor: none;
 }
 
 .square-image-container {
@@ -34,6 +36,13 @@
   height: 100%;
   object-fit: cover;
   object-position: center center;
+}
+
+.lookbook-desc {
+  display: none;
+  position: absolute;
+  z-index: 1000;
+  background-color: white;
 }
 
 @media (max-width: 1440px) {
