@@ -17,6 +17,7 @@
   margin-bottom: 1rem;
   position: relative;
   cursor: none;
+  overflow: visible;
 }
 
 .square-image-container {
@@ -43,6 +44,7 @@
   position: absolute;
   z-index: 1000;
   background-color: white;
+  width: 100%;
 }
 
 @media (max-width: 1440px) {
