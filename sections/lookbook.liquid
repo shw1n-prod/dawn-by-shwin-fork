@@ -59,6 +59,23 @@
   </div>
 </section>
 
+<script>
+  document.querySelectorAll(".image-container").forEach((container) => {
+    container.addEventListener("mouseover", () => {
+    	let desc = container.firstElementChild
+      desc.style.display = "block";
+      
+      document.addEventListener('mousemove', (e) => {
+      	desc.style.left = e.pageX + 'px';
+    		desc.style.top = e.pageY + 'px';
+      });
+    })
+     container.addEventListener("mouseout", () => {
+      container.firstElementChild.style.display = "none";
+    })
+  })
+</script>
+
 {% schema %}
 {
   "name": "Lookbook",
