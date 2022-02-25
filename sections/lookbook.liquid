@@ -62,8 +62,8 @@
 <script>
   document.querySelectorAll(".image-container").forEach((container) => {
     container.addEventListener("mouseover", () => {
-    	let desc = container.firstElementChild
-      desc.style.display = "block";
+      let desc = container.firstElementChild
+      desc.style.visibility = "visible";
       
       document.addEventListener('mousemove', (e) => {
       	desc.style.left = e.pageX + 'px';
@@ -71,7 +71,7 @@
       });
     })
      container.addEventListener("mouseout", () => {
-      container.firstElementChild.style.display = "none";
+      container.firstElementChild.style.visibility = "hidden";
     })
   })
 </script>
