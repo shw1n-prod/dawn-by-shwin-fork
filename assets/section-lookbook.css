@@ -39,7 +39,7 @@
 }
 
 .lookbook-desc {
-  display: none;
+  visibility: hidden;
   position: absolute;
   z-index: 1000;
   background-color: white;
