@@ -63,11 +63,12 @@
   document.querySelectorAll(".image-container").forEach((container) => {
     container.addEventListener("mouseover", () => {
       let desc = container.querySelector(".lookbook-desc");
+      console.log(desc)
       desc.style.visibility = "visible";
       
       document.addEventListener('mousemove', (e) => {
       	desc.style.left = e.pageX + 'px';
-    		desc.style.top = e.pageY + 'px';
+    	desc.style.top = e.pageY + 'px';
       });
     })
      container.addEventListener("mouseout", () => {
