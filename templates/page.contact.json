@@ -3,7 +3,8 @@
     "form": {
       "type": "contact-form",
       "settings": {
-        "heading": "Contact Us"
+        "heading": "Contact Us",
+        "description": "Request to consign, let us know what brands/pieces you want us to carry, or just say hi!"
       }
     }
   },
