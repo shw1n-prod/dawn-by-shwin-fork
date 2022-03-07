@@ -8,6 +8,12 @@
           "settings": {
             "paragraph_body_text": "Located at 119 Newbury Street, Boston MA."
           }
+        },
+        "about_us_body": {
+          "type": "paragraph_body",
+          "settings": {
+            "paragraph_body_text": "Located at 119 Newbury Street, Boston MA."
+          }
         }
       },
       "block_order": [
