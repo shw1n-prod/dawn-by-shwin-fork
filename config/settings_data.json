@@ -24,7 +24,7 @@
       "header": {
         "type": "header",
         "settings": {
-          "color_scheme": "background-1",
+          "color_scheme": "inverse",
           "logo": "shopify:\/\/shop_images\/AIGO_LOGO_220a0d34-94ef-40fa-907a-00a776220a90.png",
           "logo_width": 90,
           "logo_position": "middle-left",
