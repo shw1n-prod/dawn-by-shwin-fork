@@ -1,7 +1,7 @@
 {
   "current": {
-    "type_header_font": "soho_n4",
-    "type_body_font": "ubuntu_n3",
+    "type_header_font": "josefin_sans_n4",
+    "type_body_font": "josefin_sans_n3",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
