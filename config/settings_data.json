@@ -9,7 +9,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Welcome",
+              "text": "119 Newbury Street, Boston, MA",
               "color_scheme": "background-1",
               "link": ""
             }
@@ -24,7 +24,7 @@
       "header": {
         "type": "header",
         "settings": {
-          "color_scheme": "inverse",
+          "color_scheme": "background-1",
           "logo": "shopify:\/\/shop_images\/AIGO_LOGO_220a0d34-94ef-40fa-907a-00a776220a90.png",
           "logo_width": 90,
           "logo_position": "middle-left",
@@ -45,14 +45,6 @@
               "menu": "footer"
             }
           },
-          "footer-1": {
-            "type": "link_list",
-            "disabled": true,
-            "settings": {
-              "heading": "Info",
-              "menu": "footer"
-            }
-          },
           "footer-2": {
             "type": "text",
             "disabled": true,
@@ -60,12 +52,20 @@
               "heading": "Our mission",
               "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
             }
+          },
+          "footer-1": {
+            "type": "link_list",
+            "disabled": true,
+            "settings": {
+              "heading": "Info",
+              "menu": "footer"
+            }
           }
         },
         "block_order": [
           "footer-0",
-          "footer-1",
-          "footer-2"
+          "footer-2",
+          "footer-1"
         ],
         "settings": {
           "color_scheme": "background-1",
