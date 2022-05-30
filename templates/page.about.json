@@ -6,16 +6,29 @@
         "about_us_body": {
           "type": "paragraph_body",
           "settings": {
-            "paragraph_body_text": "Located at 119 Newbury Street, Boston MA."
+            "paragraph_body_text": "Located at 119 Newbury Street, Boston MA, Aigo strives to curate a fresh collection of secondhand clothing, combining both vintage and designer brands to create an environment where customers can explore and broaden their fashion horizons. We believe that by perusing the old and the new, one can gain a higher sense of fashion and gain knowledge on their own style and the world's."
+          }
+        },
+        "1cf97700-9b83-4c52-bcfd-88d695688ec0": {
+          "type": "paragraph_body",
+          "settings": {
+            "paragraph_body_text": "Our in-store selection also includes brand new shoe releases in addition to being able to try on any pieces in our collection listed on the website."
+          }
+        },
+        "06768973-b872-4a27-89ef-dd25937a7441": {
+          "type": "paragraph_body",
+          "settings": {
+            "paragraph_body_text": "Follow us on instagram @shop.aigo"
           }
         }
       },
       "block_order": [
-        "about_us_body"
+        "about_us_body",
+        "1cf97700-9b83-4c52-bcfd-88d695688ec0",
+        "06768973-b872-4a27-89ef-dd25937a7441"
       ],
       "settings": {
-        "page_header": "About us",
-        "about_image": "shopify:\/\/shop_images\/AIGO_LOGO.png"
+        "page_header": "About Us"
       }
     }
   },

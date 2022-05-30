@@ -9,7 +9,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "119 Newbury Street, Boston, MA",
+              "text": "119 Newbury Street, Boston, MA, 02216",
               "color_scheme": "background-1",
               "link": ""
             }
@@ -55,7 +55,6 @@
           },
           "footer-1": {
             "type": "link_list",
-            "disabled": true,
             "settings": {
               "heading": "Info",
               "menu": "footer"
