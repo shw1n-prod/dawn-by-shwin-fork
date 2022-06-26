@@ -26,11 +26,11 @@
         "settings": {
           "color_scheme": "background-1",
           "logo": "shopify:\/\/shop_images\/AIGO_LOGO_220a0d34-94ef-40fa-907a-00a776220a90.png",
-          "logo_width": 90,
-          "logo_position": "middle-left",
+          "logo_width": 100,
+          "logo_position": "top-center",
           "menu": "main-menu-posthandoff",
           "show_line_separator": true,
-          "enable_sticky_header": true,
+          "enable_sticky_header": false,
           "margin_bottom": 0
         }
       },
