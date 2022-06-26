@@ -90,6 +90,10 @@
                       {{ 'image' | placeholder_svg_tag: 'placeholder-svg placeholder' }}
                     {%- endif -%}
                   </div>
+              	{%- when 'email_signup' -%}
+                  <div class="footer-block__details-content email-signup {{ block.settings.alignment }}">
+                    
+                  </div>
                 {%- endcase -%}
             </div>
           {%- endfor -%}
@@ -472,7 +476,19 @@
           "default": "center"
         }
       ]
-    }
+    },
+	{
+	  "type": "email_signup",
+	  "name": "Email Signup",
+	  "settings": [
+		{
+		  "type": "text",
+		  "id": "heading",
+		  "default": "Heading",
+          "label": "t:sections.footer.blocks.email_signup.settings.heading.label"
+		}
+	  ]
+	}
   ],
   "settings": [
     {
