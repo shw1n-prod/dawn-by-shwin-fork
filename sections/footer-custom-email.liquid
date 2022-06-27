@@ -115,7 +115,7 @@
                             {% endif %}
                             placeholder="{{ 'newsletter.label' | t }}"
                             required
-                            {% if object.settings.contact_text_alignment == "center" %}center{% elsif object.settings.contact_text_alignment == "left" %}align_left{% endif %}"
+                            {% if block.settings.alignment == "center" %}center{% elsif block.settings.alignment == "left" %}align_left{% endif %}"
                           >
                           <label class="field__label" for="NewsletterForm--{{ section.id }}">
                             {{ 'newsletter.label' | t }}
