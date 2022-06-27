@@ -94,14 +94,15 @@
           "footer-custom-email-0": {
             "type": "link_list",
             "settings": {
-              "heading": "Quick links",
+              "heading": "Info & Links",
               "menu": "footer"
             }
           },
           "944c594a-e1f1-4665-8448-1d7478d9f4a2": {
             "type": "email_signup",
             "settings": {
-              "heading": "Mailing List"
+              "heading": "Mailing List",
+              "alignment": "left"
             }
           }
         },
