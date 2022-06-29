@@ -80,6 +80,7 @@
 
 .block-newsletter-form__field-wrapper .field__input {
   padding-right: 5rem;
+  justify-content: left;
 }
 
 .block-newsletter-form__field-wrapper .field {
