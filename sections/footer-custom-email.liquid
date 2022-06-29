@@ -96,6 +96,7 @@
                       <input type="hidden" name="contact[tags]" value="newsletter">
                       <div class="newsletter-form__field-wrapper {% if block.settings.alignment == "center" %}center{% elsif block.settings.alignment == "left" %}left{% endif %}">
                         <div class="field" >
+                          <td align="left">
                           <input
                             id="NewsletterForm--{{ section.id }}"
                     		align="left"
@@ -117,6 +118,7 @@
                             placeholder="{{ 'newsletter.label' | t }}"
                             required
                           >
+                          </td>
                           <label class="field__label" for="NewsletterForm--{{ section.id }}">
                             {{ 'newsletter.label' | t }}
                           </label>
