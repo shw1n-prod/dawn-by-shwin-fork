@@ -93,9 +93,6 @@
               	{%- when 'email_signup' -%}
                   <div class="footer-block__details-content email-signup {{ block.settings.alignment }}">
                     {%- form 'customer', id: 'ContactFooter', class: 'footer__newsletter newsletter-form' -%}
-                    <table>
-                      <tr>
-                        <td align="left">
                       <input type="hidden" name="contact[tags]" value="newsletter">
                       <div class="newsletter-form__field-wrapper">
                         <div class="field" >
@@ -131,9 +128,6 @@
                           <small class="newsletter-form__message form__message" id="ContactFooter-error">{% render 'icon-error' %}{{ form.errors.translated_fields['email'] | capitalize }} {{ form.errors.messages['email'] }}</small>
                         {%- endif -%}
                       </div>
-                        </td>
-                      </tr>
-                    </table>
                       {%- if form.posted_successfully? -%}
                         <h3 class="newsletter-form__message newsletter-form__message--success form__message" id="ContactFooter-success" tabindex="-1" autofocus>{% render 'icon-success' %}{{ 'newsletter.success' | t }}</h3>
                       {%- endif -%}
