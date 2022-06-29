@@ -172,11 +172,9 @@
 }
 
 .newsletter-form__field-wrapper {
-  position: absolute;
   max-width: 36rem;
-  left: 50px;
-  bottom: 50px
 }
+
 .block-newsletter-form__field-wrapper {
   position: absolute;
   max-width: 36rem;
