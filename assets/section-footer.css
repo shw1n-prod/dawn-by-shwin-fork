@@ -178,7 +178,7 @@
 .block-newsletter-form__field-wrapper {
   position: absolute;
   max-width: 36rem;
-  left: 0px;
+  left: -50px;
   top: 0px;
 }
 
