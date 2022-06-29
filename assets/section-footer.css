@@ -184,6 +184,8 @@
 }
 */
 
+
+/*
 .block-newsletter-form__field-wrapper input[type="email"]{
   display: inline-block;
   horizontal-align: left;
@@ -191,6 +193,7 @@
   left:75px;
   width:initial;
 }
+*/
 
 @media screen and (min-width: 750px) {
   .footer-block__newsletter:not(:only-child) {
