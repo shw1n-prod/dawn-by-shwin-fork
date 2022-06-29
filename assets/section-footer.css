@@ -177,6 +177,12 @@
   left: 50px;
   bottom: 50px
 }
+.block-newsletter-form__field-wrapper {
+  position: absolute;
+  max-width: 36rem;
+  left: 50px;
+  bottom: 50px
+}
 
 @media screen and (min-width: 750px) {
   .footer-block__newsletter:not(:only-child) {
