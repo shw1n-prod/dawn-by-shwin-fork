@@ -186,9 +186,8 @@
 
 .block-newsletter-form__field-wrapper input[type="email"]{
   display: inline-block;
-  horizontal-align: left;
   position:absolute;
-  left:75px;
+  left:0px;
   right:0px;
   top:0px;
   width:initial;
