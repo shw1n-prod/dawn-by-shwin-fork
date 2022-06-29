@@ -75,6 +75,7 @@
 .block-newsletter-form__field-wrapper {
   width: 100%;
   justify-content: left;
+  align-items: center;
 }
 
 .block-newsletter-form__field-wrapper .field__input {
