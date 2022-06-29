@@ -178,8 +178,8 @@
 .block-newsletter-form__field-wrapper {
   position: relative;
   max-width: 36rem;
-  left: 50px;
-  top: 50px;
+  right: 25px;
+  top: 25px;
 }
 
 @media screen and (min-width: 750px) {
