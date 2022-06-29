@@ -69,3 +69,17 @@
 .newsletter-form__button .icon {
   width: 1.5rem;
 }
+
+/* ******** */
+
+.block-newsletter-form__field-wrapper {
+  width: 100%;
+}
+
+.block-newsletter-form__field-wrapper .field__input {
+  padding-right: 5rem;
+}
+
+.block-newsletter-form__field-wrapper .field {
+  z-index: 0;
+}
