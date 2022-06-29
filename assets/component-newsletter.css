@@ -1,7 +1,7 @@
 .newsletter-form {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: left;
   align-items: center;
   width: 100%;
   position: relative;
@@ -74,7 +74,7 @@
 
 .block-newsletter-form__field-wrapper {
   width: 100%;
-  justify-content: left:
+  justify-content: left;
 }
 
 .block-newsletter-form__field-wrapper .field__input {
