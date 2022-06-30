@@ -1,6 +1,6 @@
 .newsletter-form {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   justify-content: left;
   align-items: center;
   width: 100%;
