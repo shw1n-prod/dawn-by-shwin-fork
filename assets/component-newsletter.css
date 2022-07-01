@@ -25,6 +25,7 @@
 
 .newsletter-form__field-wrapper .field {
   z-index: 0;
+  justify-content: left;
 }
 
 .newsletter-form__message {
