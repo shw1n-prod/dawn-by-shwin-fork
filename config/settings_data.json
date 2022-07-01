@@ -1,7 +1,8 @@
 {
   "current": {
     "type_header_font": "josefin_sans_n4",
-    "type_body_font": "josefin_sans_n3",
+    "type_body_font": "itc_franklin_gothic_n5",
+    "accent_icons": "text",
     "social_instagram_link": "http:\/\/instagram.com\/shop.aigo",
     "sections": {
       "announcement-bar": {
