@@ -130,7 +130,7 @@
 }
 
 .footer-block--newsletter > * {
-  flex: 0 1 100%;
+  flex: 1 1 100%;
 }
 
 @media screen and (max-width: 749px) {
