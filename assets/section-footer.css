@@ -127,7 +127,6 @@
 
 .footer-block--newsletter:only-child {
   margin-top: 0;
-  justify-content: left;
 }
 
 .footer-block--newsletter > * {
