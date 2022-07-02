@@ -32,6 +32,12 @@
   <link id="ModelViewerOverride" rel="stylesheet" href="{{ 'component-model-viewer-ui.css' | asset_url }}" media="print" onload="this.media='all'">
 {%- endif -%}
 
+<style>
+a:hover {
+  background-color: yellow;
+}
+</style>
+
 <section class="page-width section-{{ section.id }}-padding">
   <div class="back-button" style="padding-bottom: 15px;">
     <a href="javascript:history.back()"
@@ -44,9 +50,7 @@
               font-display: swap;
               src: url(https://fonts.shopifycdn.com/itc_franklin_gothic/itcfranklingothic_n5.fa0672939fc9dbb4a36c3b04548fb90052a1f519.woff2?h1=c2hvcGFpZ28uY29t&hmac=3a5633bb3c94e0da9c893f40196964220d51522298cde578b5f16613e273409c) format(woff2),
                    url(https://fonts.shopifycdn.com/itc_franklin_gothic/itcfranklingothic_n5.41fa3263136f746c011b85f563a4fcba9918363a.woff?h1=c2hvcGFpZ28uY29t&hmac=bb62687f63efabb50389c30d9d0b61f7000090d939a61952631ae324d2bff634) format(woff);
-              a:hover {
-  				background-color: yellow;
-				}"
+              "
        		  >
       &lt back
     </a>
