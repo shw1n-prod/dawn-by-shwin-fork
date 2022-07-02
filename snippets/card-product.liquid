@@ -99,14 +99,7 @@
       <div class="card__content">
         <div class="card__information">
           <h3 class="card__heading{% if card_product.featured_media or settings.card_style == 'standard' %} h5{% endif %}">
-            <a href="{{ card_product.url }}" class="full-unstyled-link" 
-               style="
-                	font-family: ITC Franklin Gothic;
-  					font-weight: 500;
-  					font-style: normal;
-  					font-display: swap;
-  					src: url(https://fonts.shopifycdn.com/itc_franklin_gothic/itcfranklingothic_n5.fa0672939fc9dbb4a36c3b04548fb90052a1f519.woff2?h1=c2hvcGFpZ28uY29t&hmac=3a5633bb3c94e0da9c893f40196964220d51522298cde578b5f16613e273409c) format(woff2),
-       				 	url(https://fonts.shopifycdn.com/itc_franklin_gothic/itcfranklingothic_n5.41fa3263136f746c011b85f563a4fcba9918363a.woff?h1=c2hvcGFpZ28uY29t&hmac=bb62687f63efabb50389c30d9d0b61f7000090d939a61952631ae324d2bff634) format(woff);">
+            <a href="{{ card_product.url }}" class="full-unstyled-link">
               {{ card_product.title | escape }}
             </a>
           </h3>
