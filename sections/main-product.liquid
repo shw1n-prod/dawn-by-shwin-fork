@@ -32,7 +32,13 @@
   <link id="ModelViewerOverride" rel="stylesheet" href="{{ 'component-model-viewer-ui.css' | asset_url }}" media="print" onload="this.media='all'">
 {%- endif -%}
 
+<style>
+a:link {
+  color: #696969;
+  text-decoration: none;
+}
 
+</style>
 
 <section class="page-width section-{{ section.id }}-padding">
   <div class="back-button" style="padding-bottom: 15px;">
@@ -46,7 +52,10 @@
                    url(https://fonts.shopifycdn.com/itc_franklin_gothic/itcfranklingothic_n5.41fa3263136f746c011b85f563a4fcba9918363a.woff?h1=c2hvcGFpZ28uY29t&hmac=bb62687f63efabb50389c30d9d0b61f7000090d939a61952631ae324d2bff634) format(woff);
               "
        		  
-       onmouseover="this.style.color='#000000'" onmouseout="this.style.color='#696969'">
+       onmouseover="this.style.color='#000000';
+  					text-decoration: underline;" 
+       onmouseout="this.style.color='#696969';
+  				   text-decoration: none;">
       BACK
     </a>
   </div>
