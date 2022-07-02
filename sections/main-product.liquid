@@ -33,17 +33,19 @@
 {%- endif -%}
 
 <section class="page-width section-{{ section.id }}-padding">
-  <a href="javascript:history.back()"
-     style="padding-bottom: 100%;
-            text-decoration: none;
-            color: black;
-            font-family: ITC Franklin Gothic;
-            font-weight: 500;
-            font-style: normal;
-            font-display: swap;
-            src: url(https://fonts.shopifycdn.com/itc_franklin_gothic/itcfranklingothic_n5.fa0672939fc9dbb4a36c3b04548fb90052a1f519.woff2?h1=c2hvcGFpZ28uY29t&hmac=3a5633bb3c94e0da9c893f40196964220d51522298cde578b5f16613e273409c) format(woff2),
-                 url(https://fonts.shopifycdn.com/itc_franklin_gothic/itcfranklingothic_n5.41fa3263136f746c011b85f563a4fcba9918363a.woff?h1=c2hvcGFpZ28uY29t&hmac=bb62687f63efabb50389c30d9d0b61f7000090d939a61952631ae324d2bff634) format(woff)">
-    BACK</a>
+  <div class="back-button" style="padding-bottom: 100%;">
+    <a href="javascript:history.back()"
+       style="padding-bottom: 100%;
+              text-decoration: none;
+              color: black;
+              font-family: ITC Franklin Gothic;
+              font-weight: 500;
+              font-style: normal;
+              font-display: swap;
+              src: url(https://fonts.shopifycdn.com/itc_franklin_gothic/itcfranklingothic_n5.fa0672939fc9dbb4a36c3b04548fb90052a1f519.woff2?h1=c2hvcGFpZ28uY29t&hmac=3a5633bb3c94e0da9c893f40196964220d51522298cde578b5f16613e273409c) format(woff2),
+                   url(https://fonts.shopifycdn.com/itc_franklin_gothic/itcfranklingothic_n5.41fa3263136f746c011b85f563a4fcba9918363a.woff?h1=c2hvcGFpZ28uY29t&hmac=bb62687f63efabb50389c30d9d0b61f7000090d939a61952631ae324d2bff634) format(woff)">
+      BACK</a>
+  </div>
   <div class="product product--{{ section.settings.media_size }} product--{{ section.settings.gallery_layout }} grid grid--1-col {% if product.media.size > 0 %}grid--2-col-tablet{% else %}product--no-media{% endif %}">
     <div class="grid__item product__media-wrapper">
       <media-gallery id="MediaGallery-{{ section.id }}" role="region" {% if section.settings.enable_sticky_info %}class="product__media-gallery"{% endif %} aria-label="{{ 'products.product.media.gallery_viewer' | t }}" data-desktop-layout="{{ section.settings.gallery_layout }}">
