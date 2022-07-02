@@ -37,7 +37,6 @@
         "collection": "home",
         "products_to_show": 12,
         "columns_desktop": 4,
-        "sort": "date",
         "color_scheme": "background-1",
         "show_view_all": true,
         "swipe_on_mobile": true,
