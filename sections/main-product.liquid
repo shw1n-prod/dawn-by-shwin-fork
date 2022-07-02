@@ -32,7 +32,17 @@
   <link id="ModelViewerOverride" rel="stylesheet" href="{{ 'component-model-viewer-ui.css' | asset_url }}" media="print" onload="this.media='all'">
 {%- endif -%}
 
-
+<style>
+a:link {
+  color: #696969;
+  text-decoration: none;
+}
+  
+a:hover {
+  color: #000000;
+  text-decoration: underline;
+}
+</style>
 
 <section class="page-width section-{{ section.id }}-padding">
   <div class="back-button" style="padding-bottom: 15px;">
