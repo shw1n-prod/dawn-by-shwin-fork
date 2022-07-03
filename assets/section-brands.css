@@ -1,3 +1,16 @@
+.grid-container {
+  display: grid;
+  grid-auto-flow: column;
+  gap: 50px 100px;
+  margin: 25px auto 0;
+  width: 90%;
+  column-count: 3;
+  font-size: 90%;
+  grid-template-columns: auto auto auto;
+  grid-gap: 10px;
+  padding: 10px;
+}
+
 .grid-item a {
   padding: 10px;
   display: block;
@@ -18,19 +31,6 @@
   text-decoration: underline;
   text-underline-offset: 0.3rem;
   text-decoration-thickness: 0.2rem;
-}
-
-.grid-container {
-  display: grid;
-  grid-auto-flow: column;
-  gap: 50px 100px;
-  margin: 25px auto 0;
-  width: 90%;
-  column-count: 3;
-  font-size: 90%;
-  grid-template-columns: auto auto auto;
-  grid-gap: 10px;
-  padding: 10px;
 }
 
 @media only screen and (max-width: 749px)
