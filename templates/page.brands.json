@@ -50,6 +50,7 @@
     "brands": {
       "type": "brands",
       "settings": {
+        "menu": "brands-list"
       }
     }
   },
