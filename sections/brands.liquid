@@ -2,12 +2,10 @@
 
 {{ 'section-brands.css' | asset_url | stylesheet_tag }}
 
-{% assign brandslist = linklists["brands-list"] %}
-
 <section class="brands-container">
   outside top
   <div class="grid-container">
-    {% for link in brandslist %}
+    {% for link in section.settings.menu.links %}
     <div class="grid-item">
       <a href="{{ link.url }}" class="link link--text grid-brand__item grid-brand__item--link{% if link.active %} grid-brand__item--active{% endif %}">
         {{ link.title }}
