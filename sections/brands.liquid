@@ -3,7 +3,6 @@
 {{ 'section-brands.css' | asset_url | stylesheet_tag }}
 
 <section class="brands-container">
-  outside top
   <div class="grid-container">
     {% for link in section.settings.menu.links %}
     <div class="grid-item">
@@ -13,7 +12,6 @@
     </div>
     {% endfor %}
   </div>
-  outside bottom
 </section>
 
 
