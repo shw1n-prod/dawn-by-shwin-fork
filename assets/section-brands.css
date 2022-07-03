@@ -21,6 +21,7 @@
   columns: 3;
   justify-content: center;
   
+  text-align: center;
 }
 
 .grid-item a {
@@ -32,6 +33,7 @@
   margin-inline-start: 0px;
   margin-inline-end: 0px;
   text-align: center;
+  justify-content: center;
 }
 
 .grid-item a:link {
