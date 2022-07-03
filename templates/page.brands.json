@@ -8,13 +8,6 @@
         "padding_bottom": 28
       }
     },
-    "brands": {
-      "type": "brands",
-      "settings": {
-        "padding_top": 28,
-        "padding_bottom": 28
-      }
-    },
     "16563889950dabba08": {
       "type": "rich-text",
       "blocks": {
@@ -27,6 +20,7 @@
         },
         "165638899523ca344f-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Brands list coming soon<\/p>"
           }
@@ -52,11 +46,16 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
+    },
+    "brands": {
+      "type": "brands",
+      "settings": {
+      }
     }
   },
   "order": [
     "main",
-    "brands",
-    "16563889950dabba08"
+    "16563889950dabba08",
+    "brands"
   ]
 }
