@@ -9,6 +9,7 @@
   margin: 25px auto 0;
   width: 90%;
   padding: 10px;
+  column-count: 3;
   font-size: 90%;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 50px;
