@@ -34,6 +34,7 @@
   margin-inline-end: 0px;
   text-align: center;
   justify-content: center;
+  display: block;
 }
 
 .grid-item a:link {
