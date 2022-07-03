@@ -3,3 +3,35 @@
   grid-auto-flow: column;
   gap: 50px 100px;
 }
+
+.grid-brand--right {
+  right: 0;
+}
+
+.grid-brand--disclosure {
+  position: absolute;
+  min-width: 100%;
+  width: 20rem;
+  border: 1px solid rgba(var(--color-foreground), 0.2);
+  background-color: rgb(var(--color-background));
+}
+
+.grid-brand--disclosure:focus {
+  outline: none;
+}
+
+.grid-brand__item--active {
+  text-decoration: underline;
+  text-underline-offset: 0.3rem;
+}
+
+.grid-brand__item--active:hover {
+  text-decoration-thickness: 0.2rem;
+}
+
+.grid-brand--disclosure.localization-selector {
+  max-height: 18rem;
+  overflow: auto;
+  width: 10rem;
+  padding: 0.5rem;
+}
