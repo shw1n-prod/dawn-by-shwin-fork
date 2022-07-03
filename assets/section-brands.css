@@ -10,10 +10,7 @@
   width: 90%;
   column-count: 3;
   font-size: 90%;
-  grid-template:
-    'brandname brandname brandname' 
-    'brandname brandname brandname'
-    'brandname brandname brandname';
+  grid-template-columns: repeat(auto-fit, minmax(min(100%/1, max(64px, 100%/3)), 1fr));
   grid-gap: 10px;
   padding: 10px;
 }
