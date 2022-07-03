@@ -1,5 +1,5 @@
 .grid-container {
-  display: grid;
+  display: inline-grid;
   grid-auto-flow: column;
   gap: 50px 100px;
   margin: 25px auto 0;
