@@ -1,5 +1,6 @@
 .grid-item {
   grid-area: brandname;
+  padding: 10px;
 }
 
 .grid-container {
