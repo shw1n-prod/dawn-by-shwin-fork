@@ -4,6 +4,21 @@
   gap: 50px 100px;
 }
 
+@media only screen and (max-width: 749px)
+.brands-container {
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.brands-container {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.brands-container {
+    *zoom: 1;
+    max-width: 1500px;
+    margin: 0 auto;
+}
+
 .grid-brand--right {
   right: 0;
 }
