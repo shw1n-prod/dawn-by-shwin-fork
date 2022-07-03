@@ -1,10 +1,15 @@
 {{ 'section-brands.css' | asset_url | stylesheet_tag }}
 
+{% assign brands = linklists["brands-list"] %}
+
+
 <section class="brands-container">
   <div class="grid-container">
-    
-    
-    
+    {% for link in brands.links %}
+    <div class="grid-item">
+      
+    </div>
+    {% endfor %}
   </div>
 </section>
 
