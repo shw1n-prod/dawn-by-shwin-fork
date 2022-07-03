@@ -13,6 +13,7 @@
       "blocks": {
         "165638899523ca344f-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Brands",
             "heading_size": "h2"
@@ -20,6 +21,7 @@
         },
         "165638899523ca344f-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>Brands list coming soon<\/p>"
           }
