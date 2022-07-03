@@ -19,6 +19,7 @@
 .grid-container {
   display: table;
   columns: 3;
+  justify-content: center;
   
 }
 
