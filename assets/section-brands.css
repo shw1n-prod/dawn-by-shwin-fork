@@ -1,6 +1,7 @@
 .brands-container {
   justify-content: center;
   display: block:
+  align-items: center;
 }
 
 .grid-containewwerwerwerwerr {
@@ -21,7 +22,6 @@
   display: table;
   columns: 3;
   justify-content: center;
-  
   text-align: center;
 }
 
