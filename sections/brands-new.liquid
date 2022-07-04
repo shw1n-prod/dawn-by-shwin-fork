@@ -1,5 +1,13 @@
 {{ 'section-brands-new.css' | asset_url | stylesheet_tag }}
 
+<div class="grid-container">
+  {% for link in section.settings.menu.links %}
+    <a href="{{ link.url }}" class="link link--text grid-brand__item grid-brand__item--link{% if link.active %} grid-brand__item--active{% endif %}">
+      {{ link.title }}
+    </a>
+  {% endfor %}
+</div>
+
 {% schema %}
   {
     "name": "Brand List",
