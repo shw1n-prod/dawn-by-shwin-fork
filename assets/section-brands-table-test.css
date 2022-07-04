@@ -24,14 +24,14 @@
 */
 
 .brands-container.grid-container {
-  grid-auto-flow: dense;
-  padding: 3em;
+  /*grid-auto-flow: dense;
+  padding: 3em;*/
   display: grid;
-  grid-gap: 20em;
-  grid-template-columns: repeat(auto-fit, minmax(3px, 1fr));
+  /*grid-gap: 20em;
+  grid-template-columns: repeat(auto-fit, minmax(3px, 1fr));*/
 }
 
-.brands-container.grid-container.grid-item a {
+.brands-container.grid-container a {
   /*padding: 10px;*/
   
   /*
@@ -47,7 +47,7 @@
   justify-content: center;
 }
 
-.brands-container.grid-container.grid-item a:link {
+.brands-container.grid-container a:link {
   color: #696969;
   text-decoration: none;
   display: block;
@@ -55,7 +55,7 @@
   justify-content: center;
 }
   
-.brands-container.grid-container.grid-item a:hover {
+.brands-container.grid-container a:hover {
   color: #000000;
   text-decoration: underline;
   text-underline-offset: 0.3rem;
@@ -65,7 +65,7 @@
   justify-content: center;
 }
 
-.brands-container.grid-container.grid-item a:visited {
+.brands-container.grid-container a:visited {
   color: #696969;
   text-decoration: none;
   display: block;
