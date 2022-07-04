@@ -46,7 +46,7 @@
   justify-content: center;
 }
 
-.grid-item a:link {
+.brands-container.grid-container.grid-item a:link {
   color: #696969;
   text-decoration: none;
   display: block;
@@ -54,7 +54,7 @@
   justify-content: center;
 }
   
-.grid-item a:hover {
+.brands-container.grid-container.grid-item a:hover {
   color: #000000;
   text-decoration: underline;
   text-underline-offset: 0.3rem;
@@ -64,7 +64,7 @@
   justify-content: center;
 }
 
-.grid-item a:visited {
+.brands-container.grid-container.grid-item a:visited {
   color: #696969;
   text-decoration: none;
   display: block;
