@@ -4,7 +4,7 @@
     display: grid;
   }
   
-  .grind-container a {
+  .grind-container .brand-link {
     text-align: center;
   }
 </style>
@@ -13,7 +13,7 @@
 
 <div class="grid-container">
   {% for link in section.settings.menu.links %}
-    <a href="{{ link.url }}" class="link link--text grid-brand__item grid-brand__item--link{% if link.active %} grid-brand__item--active{% endif %}">
+    <a href="{{ link.url }}" class="brand-link">
       {{ link.title }}
     </a>
   {% endfor %}
