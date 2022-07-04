@@ -43,61 +43,20 @@
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 20,
-        "padding_bottom": 8
+        "padding_top": 40,
+        "padding_bottom": 20
       }
     },
     "brands": {
-      "type": "brands-new",
+      "type": "brands",
       "settings": {
         "menu": "brands-list"
-      }
-    },
-    "1656915238e300dc67": {
-      "type": "rich-text",
-      "blocks": {
-        "165691523838e12fca-0": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
-          }
-        },
-        "165691523838e12fca-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "165691523838e12fca-2": {
-          "type": "button",
-          "disabled": true,
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "165691523838e12fca-0",
-        "165691523838e12fca-1",
-        "165691523838e12fca-2"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 4,
-        "padding_bottom": 20
       }
     }
   },
   "order": [
     "main",
     "16563889950dabba08",
-    "brands",
-    "1656915238e300dc67"
+    "brands"
   ]
 }
