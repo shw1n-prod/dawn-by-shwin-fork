@@ -1,14 +1,14 @@
-body {
+* {
   justify-content: center;
 }
 
-section {
+.brands-container {
   justify-content: center;
   display: block:
   align-items: center;
 }
 
-section .grid-containewwerwerwerwerr {
+.grid-containewwerwerwerwerr {
   display: grid;
   grid-auto-flow: column;
   gap: 50px 100px;
@@ -22,14 +22,14 @@ section .grid-containewwerwerwerwerr {
   padding: 10px;
 }
 
-section .grid-container {
+.grid-container {
   display: table;
   columns: 3;
   justify-content: center;
   text-align: center;
 }
 
-section .grid-container .grid-item a {
+.grid-item a {
   padding: 10px;
   display: block;
   font-size: 1.0em;
