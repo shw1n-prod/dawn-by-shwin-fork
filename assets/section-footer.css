@@ -447,7 +447,8 @@ noscript .localization-selector.link {
   }
 }
 
-.footer-block__details-content .email-signup {
+.footer-block__details-content-email-signup {
+  display: flex;
   justify-content: left;
 }
 
