@@ -2,13 +2,13 @@ body {
   justify-content: center;
 }
 
-.brands-container {
+section {
   justify-content: center;
   display: block:
   align-items: center;
 }
 
-.grid-containewwerwerwerwerr {
+section .grid-containewwerwerwerwerr {
   display: grid;
   grid-auto-flow: column;
   gap: 50px 100px;
@@ -22,14 +22,14 @@ body {
   padding: 10px;
 }
 
-.grid-container {
+section .grid-container {
   display: table;
   columns: 3;
   justify-content: center;
   text-align: center;
 }
 
-.grid-item a {
+section .grid-container .grid-item a {
   padding: 10px;
   display: block;
   font-size: 1.0em;
