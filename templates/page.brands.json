@@ -48,7 +48,7 @@
       }
     },
     "brands": {
-      "type": "brands",
+      "type": "brands-new",
       "settings": {
         "menu": "brands-list"
       }
