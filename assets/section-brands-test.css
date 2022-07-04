@@ -3,7 +3,7 @@ body {
     font-family: 'Nunito';
 }
 
-.brands-container {
+section {
   .grid-container {
     padding: 3em;
     display: grid;
