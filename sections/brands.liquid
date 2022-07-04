@@ -1,0 +1,54 @@
+<style>
+  .grid-container {
+    justify-content: center;
+    display: grid;
+  }
+  
+  .grid-container .brand-link:link {
+    color: #696969;
+  	text-decoration: none;
+  }
+  
+  .grid-container .brand-link:hover {
+    color: #000000;
+    text-decoration: underline;
+    text-underline-offset: 0.3rem;
+    text-decoration-thickness: 0.2rem;
+  }
+  
+  .grid-container .brand-link:visited {
+    color: #696969;
+    text-decoration: none;
+  }
+</style>
+
+
+
+<div class="grid-container">
+  {% for link in section.settings.menu.links %}
+    <a href="{{ link.url }}" class="brand-link" style="text-align:center;">
+      {{ link.title }}
+    </a>
+  {% endfor %}
+</div>
+
+{% schema %}
+  {
+    "name": "Brand List",
+    "class": "brands-container",
+    "settings": [
+      {
+        "type": "link_list",
+        "id": "menu",
+        "default": "main-menu",
+        "label": "Brands List"
+      }
+  ]
+  }
+{% endschema %}
+
+{% stylesheet %}
+{% endstylesheet %}
+
+{% javascript %}
+{% endjavascript %}
