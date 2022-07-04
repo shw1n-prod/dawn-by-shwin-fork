@@ -452,6 +452,11 @@ noscript .localization-selector.link {
   justify-content: left;
 }
 
+.footer__newsletter-newsletter-form {
+  display: flex;
+  justify-content: left;
+}
+
 .footer-block__details-content .list-menu__item--link,
 .copyright__content a {
   color: rgba(var(--color-foreground), 0.75);
