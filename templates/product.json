@@ -3,11 +3,6 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "description": {
-          "type": "description",
-          "settings": {
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -48,6 +43,11 @@
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": true
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
           }
         },
         "collapsible-row-0": {
@@ -98,7 +98,6 @@
         }
       },
       "block_order": [
-        "description",
         "title",
         "vendor",
         "caption",
@@ -106,6 +105,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "description",
         "collapsible-row-0",
         "collapsible-row-1",
         "collapsible-row-2",
