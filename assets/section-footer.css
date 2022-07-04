@@ -447,6 +447,10 @@ noscript .localization-selector.link {
   }
 }
 
+.footer-block__details-content .email-signup {
+  justify-content: center;
+}
+
 .footer-block__details-content .list-menu__item--link,
 .copyright__content a {
   color: rgba(var(--color-foreground), 0.75);
