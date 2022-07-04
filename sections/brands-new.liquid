@@ -1,4 +1,10 @@
-{{ 'section-brands-new.css' | asset_url | stylesheet_tag }}
+<style>
+  .grid-container {
+    justify-content: center;
+  }
+</style>
+
+
 
 <div class="grid-container">
   {% for link in section.settings.menu.links %}
