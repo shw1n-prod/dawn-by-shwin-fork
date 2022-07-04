@@ -452,7 +452,7 @@ noscript .localization-selector.link {
   justify-content: left;
 }
 
-.footer__newsletter-newsletter-form {
+.footer__newsletter .newsletter-form {
   display: flex;
   justify-content: left;
 }
