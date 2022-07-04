@@ -92,7 +92,7 @@
                   </div>
               	{%- when 'email_signup' -%}
                   <div class="footer-block__details-content-email-signup">
-                    {%- form 'customer', id: 'ContactFooter', class: 'footer__block-newsletter-newsletter-form' -%}
+                    {%- form 'customer', id: 'ContactFooter', class: 'footer__newsletter newsletter-form' -%}
                       <input type="hidden" name="contact[tags]" value="newsletter">
                       <div class="block-newsletter-form__field-wrapper">
                         <div class="field">
@@ -101,7 +101,6 @@
                             type="email"
                             name="contact[email]"
                             class="field__input"
-                            style="width:1500px"
                             value="{{ form.email }}"
                             aria-required="true"
                             autocorrect="off"
