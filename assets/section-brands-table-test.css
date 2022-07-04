@@ -57,7 +57,7 @@
 }
   
 .brands-container.grid-container a:hover {
-  color: #000000;
+  color: red;
   text-decoration: underline;
   text-underline-offset: 0.3rem;
   text-decoration-thickness: 0.2rem;
