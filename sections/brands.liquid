@@ -5,11 +5,11 @@
 <section class="brands-container">
   <div class="grid-container">
     {% for link in section.settings.menu.links %}
-    <div class="grid-item">
+    <!-- <div class="grid-item"> -->
       <a href="{{ link.url }}" class="link link--text grid-brand__item grid-brand__item--link{% if link.active %} grid-brand__item--active{% endif %}">
         {{ link.title }}
       </a>
-    </div>
+    <!-- </div>-->
     {% endfor %}
   </div>
 </section>
