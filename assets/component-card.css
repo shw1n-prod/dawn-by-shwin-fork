@@ -276,7 +276,6 @@
 
 .card-information > .price {
   color: rgb(var(--color-foreground));
-  padding: 0;
 }
 
 .card-information > .rating {
