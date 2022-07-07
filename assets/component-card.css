@@ -135,11 +135,11 @@
 
 .card__heading {
   margin-top: 0;
-  margin-bottom: -1;
+  margin-bottom: -2;
 }
 
 .card__heading:last-child {
-  margin-bottom: -1;
+  margin-bottom: -2;
 }
 
 .card--card.card--media > .card__content {
