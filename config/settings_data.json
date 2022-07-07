@@ -6,6 +6,7 @@
     "page_width": 1600,
     "accent_icons": "text",
     "social_instagram_link": "http:\/\/instagram.com\/shop.aigo",
+    "currency_code_enabled": false,
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
@@ -105,8 +106,7 @@
           "944c594a-e1f1-4665-8448-1d7478d9f4a2": {
             "type": "email_signup",
             "settings": {
-              "heading": "Mailing List",
-              "alignment": "left"
+              "heading": "Mailing List"
             }
           }
         },
