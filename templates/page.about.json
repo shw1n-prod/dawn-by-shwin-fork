@@ -28,7 +28,8 @@
         "06768973-b872-4a27-89ef-dd25937a7441"
       ],
       "settings": {
-        "page_header": "About Us"
+        "page_header": "About Us",
+        "about_image": "shopify:\/\/shop_images\/IMG_1900_2.jpg"
       }
     }
   },
