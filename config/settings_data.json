@@ -4,6 +4,7 @@
     "type_body_font": "itc_franklin_gothic_n5",
     "body_scale": 100,
     "page_width": 1800,
+    "media_shadow_vertical_offset": 0,
     "accent_icons": "text",
     "social_instagram_link": "http:\/\/instagram.com\/shop.aigo",
     "currency_code_enabled": false,
@@ -36,7 +37,7 @@
           "menu": "main-menu-posthandoff",
           "show_line_separator": true,
           "enable_sticky_header": false,
-          "margin_bottom": 0
+          "margin_bottom": 24
         }
       },
       "footer": {
