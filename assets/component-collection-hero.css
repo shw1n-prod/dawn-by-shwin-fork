@@ -52,7 +52,7 @@
   .collection-hero__title + .collection-hero__description {
     font-size: 1.8rem;
     margin-top: 2rem;
-    margin-bottom: 2rem;
+    /*margin-bottom: 2rem;*/
   }
 
   .collection-hero__description {
