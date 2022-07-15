@@ -56,7 +56,7 @@
               grid--{{ collection.products_count }}-col-desktop
             {% endif %}">
             {%- for product in collection.products -%}
-              {% if product.available %}
+              
                 {% assign lazy_load = false %}
                 {%- if forloop.index > 2 -%}
                   {%- assign lazy_load = true -%}
@@ -72,7 +72,7 @@
                     lazy_load: lazy_load
                   %}
                 </li>
-              {% endif %}
+              
             {%- endfor -%}
           </ul>
   
