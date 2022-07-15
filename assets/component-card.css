@@ -98,13 +98,10 @@
 .card__information {
   grid-row-start: 2;
   padding: 1.3rem 1rem;
-}
-
-.card__information .price-wrapper {
   display: flex;
 }
 
-.card__information .price-wrapper span {
+.card__information .price-wrapper {
   align-self: flex-end;
 }
 
@@ -112,13 +109,10 @@
   .card__information {
     padding-bottom: 1.7rem;
     padding-top: 1.7rem;
-  }
-
-  .card__information .price-wrapper {
     display: flex;
   }
 
-  .card__information .price-wrapper span {
+  .card__information .price-wrapper {
     align-self: flex-end;
   }
 }
