@@ -268,6 +268,8 @@
 
 .card-information {
   width: 100%;
+  display: flex;
+  justify-content: flex-end;
 }
 
 .card-information > * {
