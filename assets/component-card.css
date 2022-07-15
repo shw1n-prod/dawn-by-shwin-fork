@@ -272,11 +272,11 @@
 }
 
 .card-information .vendor-wrapper {
-  align-self: self-start;
+  align-self: stretch;
 }
 
 .card-information .price-wrapper {
-  align-self: self-end;
+  align-self: end;
 }
 
 .card-information > * {
