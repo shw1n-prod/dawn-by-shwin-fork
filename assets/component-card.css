@@ -279,7 +279,7 @@
 .card-information .price-wrapper {
   display: block;
   align-self: self-end;
-  margin-top: 100rem;
+  margin-top: 50px;
 }
 
 .card-information > * {
