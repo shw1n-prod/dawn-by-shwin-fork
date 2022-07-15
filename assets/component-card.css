@@ -113,6 +113,14 @@
     padding-bottom: 1.7rem;
     padding-top: 1.7rem;
   }
+
+  .card__information .price-wrapper {
+    display: flex;
+  }
+
+  .card__information .price-wrapper span {
+    align-self: flex-end;
+  }
 }
 
 .card__badge {
