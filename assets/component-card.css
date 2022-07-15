@@ -98,29 +98,13 @@
 .card__information {
   grid-row-start: 2;
   padding: 1.3rem 1rem;
-  display: flex;
-  justify-content: flex-end;
 }
-
-/*
-.card__information .price-wrapper {
-  align-self: flex-end;
-}
-*/
 
 @media screen and (min-width: 750px) {
   .card__information {
     padding-bottom: 1.7rem;
     padding-top: 1.7rem;
-    display: flex;
-    justify-content: flex-end;
   }
-
-  /*
-  .card__information .price-wrapper {
-    align-self: flex-end;
-  }
-  */
 }
 
 .card__badge {
