@@ -272,10 +272,12 @@
 }
 
 .card-information .vendor-wrapper {
+  display: block;
   align-self: stretch;
 }
 
 .card-information .price-wrapper {
+  display: block;
   align-self: self-end;
 }
 
