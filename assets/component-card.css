@@ -272,7 +272,7 @@
 }
 
 .card-information .vendor-wrapper {
-  align-self: first baseline;
+  align-self: self-start;
 }
 
 .card-information .price-wrapper {
