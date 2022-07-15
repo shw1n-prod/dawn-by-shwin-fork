@@ -269,7 +269,10 @@
 .card-information {
   width: 100%;
   display: flex;
-  justify-content: flex-end;
+}
+
+.card-information .price-wrapper {
+  align-self: flex-end;
 }
 
 .card-information > * {
