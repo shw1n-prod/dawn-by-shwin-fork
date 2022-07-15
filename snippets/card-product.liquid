@@ -139,7 +139,9 @@
               </p>
             {%- endif -%}
 
-            {% render 'price', product: card_product, price_class: '' %}
+            <div class='price-wrapper'>
+              {% render 'price', product: card_product, price_class: '' %}
+            </div>
           </div>
         </div>
         <div class="card__badge {{ settings.badge_position }}">
