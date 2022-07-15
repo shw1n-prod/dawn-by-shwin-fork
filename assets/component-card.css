@@ -276,7 +276,7 @@
 }
 
 .card-information .price-wrapper {
-  align-self: flex-end;
+  align-self: end;
 }
 
 .card-information > * {
