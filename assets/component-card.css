@@ -268,7 +268,7 @@
 
 .card-information {
   width: 100%;
-  display: flex;
+  display: grid;
 }
 
 .card-information .vendor-wrapper {
