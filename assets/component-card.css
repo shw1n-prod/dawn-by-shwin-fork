@@ -276,7 +276,7 @@
 }
 
 .card-information .price-wrapper {
-  align-self: last baseline;
+  align-self: self-end;
 }
 
 .card-information > * {
