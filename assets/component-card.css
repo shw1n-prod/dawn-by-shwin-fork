@@ -205,6 +205,12 @@
     opacity: 0;
   }
 
+  .card-wrapper:hover
+    .media.media--hover-effect
+    > img:last-child:not(:only-child) {
+    opacity: 0;
+  }
+
   .card-wrapper:hover .media.media--hover-effect > img + img {
     opacity: 1;
     transition: transform var(--duration-long) ease;
