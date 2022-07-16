@@ -208,7 +208,7 @@
   .card-wrapper:hover
     .media.media--hover-effect
     > img:last-child:not(:only-child) {
-    opacity: 0;
+    opacity: 1;
   }
 
   .card-wrapper:hover .media.media--hover-effect > img + img {
