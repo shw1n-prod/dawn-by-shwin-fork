@@ -43,13 +43,13 @@
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo": "shopify:\/\/shop_images\/AIGO_LOGO_beige_df6bd7be-43de-4c34-b247-ddc145294afb.jpg",
+          "logo": "shopify:\/\/shop_images\/AIGO_LOGO_render.png",
           "logo_width": 100,
           "logo_position": "top-center",
           "menu": "main-menu-posthandoff",
           "show_line_separator": true,
           "enable_sticky_header": false,
-          "margin_bottom": 12
+          "margin_bottom": 0
         }
       },
       "footer": {
