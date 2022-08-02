@@ -11,6 +11,8 @@
     "media_shadow_vertical_offset": 0,
     "accent_icons": "text",
     "social_instagram_link": "http:\/\/instagram.com\/shop.aigo",
+    "predictive_search_show_vendor": true,
+    "predictive_search_show_price": true,
     "currency_code_enabled": false,
     "sections": {
       "announcement-bar": {
