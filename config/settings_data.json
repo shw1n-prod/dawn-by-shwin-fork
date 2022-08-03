@@ -49,7 +49,7 @@
           "menu": "main-menu-posthandoff",
           "show_line_separator": false,
           "enable_sticky_header": false,
-          "margin_bottom": 12
+          "margin_bottom": 20
         }
       },
       "footer": {
