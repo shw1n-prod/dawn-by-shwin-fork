@@ -3,8 +3,8 @@
     "colors_background_1": "#efeae2",
     "type_header_font": "itc_franklin_gothic_n5",
     "type_body_font": "itc_franklin_gothic_n4",
-    "body_scale": 125,
-    "page_width": 1400,
+    "body_scale": 120,
+    "page_width": 1500,
     "spacing_grid_horizontal": 40,
     "spacing_grid_vertical": 12,
     "buttons_shadow_opacity": 0,
@@ -49,7 +49,7 @@
           "menu": "main-menu-posthandoff",
           "show_line_separator": false,
           "enable_sticky_header": false,
-          "margin_bottom": 20
+          "margin_bottom": 12
         }
       },
       "footer": {
