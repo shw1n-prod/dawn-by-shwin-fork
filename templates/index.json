@@ -150,6 +150,60 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "16645519122fc0f30e": {
+      "type": "slideshow",
+      "disabled": true,
+      "blocks": {
+        "1664551912ba128faf-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/wp2255918.jpg",
+            "heading": "STÜSSY",
+            "heading_size": "small",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify:\/\/collections\/stussy",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "1664551912ba128faf-1": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "medium",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "1664551912ba128faf-0",
+        "1664551912ba128faf-1"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
     }
   },
   "order": [
@@ -157,6 +211,7 @@
     "featured_collection",
     "collage",
     "video",
-    "multicolumn"
+    "multicolumn",
+    "16645519122fc0f30e"
   ]
 }
