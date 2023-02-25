@@ -36,7 +36,7 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "119 Newbury Street, Suite 100, Boston, MA, 02116 - Local Pickup now available!",
+              "text": "119 Newbury Street, Suite 10, Boston, MA, 02116 - Local Pickup now available!",
               "color_scheme": "background-1",
               "link": ""
             }
