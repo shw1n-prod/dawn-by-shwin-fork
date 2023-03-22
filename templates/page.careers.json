@@ -1,0 +1,54 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "16563889950dabba08": {
+      "type": "rich-text",
+      "blocks": {
+        "165638899523ca344f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Retail Floor Manager",
+            "heading_size": "h2"
+          }
+        },
+        "165638899523ca344f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Our store is seeking a highly motivated and detail-oriented Retail Floor Manager to oversee the daily operations of our retail store.<\/p><p>Wage starting at $18\/hr for weekday, $20\/hr on weekends<\/p><p><\/p><p>Responsibilities:<\/p><p>- Manage and train a team of sales associates to provide excellent customer service<\/p><p>- Monitor inventory levels and consult with upper management as needed<\/p><p>- Ensure visual merchandising standards are met and maintain a clean and organized store<\/p><p>- Analyze retail processes and make recommendations for improvement<\/p><p>- Handle customer complaints and resolve issues in a timely and professional manner<\/p><p>- Help create and coordinate schedules for sales associates-Collaborate with upper management to develop and implement store policies and procedures<\/p><p>Requirements:<\/p><p>- High school diploma, or equivalent required<\/p><p>- Previous retail management experience highly valued<\/p><p>- Strong leadership and communication skills<\/p><p>- Ability to work in a fast-paced environment and manage multiple tasks simultaneously<\/p><p>- Knowledge of retail operations, including inventory management and visual merchandising<\/p><p>- Availability to work flexible hours<\/p><p><\/p><p><a href=\"https:\/\/forms.gle\/x8GQhYMhT6dt76ut5\" title=\"https:\/\/forms.gle\/x8GQhYMhT6dt76ut5\"><strong>Apply here<\/strong><\/a><\/p>"
+          }
+        },
+        "165638899523ca344f-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "165638899523ca344f-0",
+        "165638899523ca344f-1",
+        "165638899523ca344f-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16563889950dabba08"
+  ]
+}
