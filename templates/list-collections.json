@@ -8,9 +8,38 @@
         "sort": "alphabetical",
         "image_ratio": "portrait"
       }
+    },
+    "cae44889-ec98-4d8b-a925-4c3faf881047": {
+      "type": "rich-text",
+      "blocks": {
+        "template--15742592942296__cae44889-ec98-4d8b-a925-4c3faf881047-168020305842b8e727-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Sorry, this page doesn't exist!",
+            "heading_size": "h2"
+          }
+        },
+        "template--15742592942296__cae44889-ec98-4d8b-a925-4c3faf881047-168020305842b8e727-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>You may be looking for <a href=\"\/pages\/brands\" title=\"Brands\"><strong>Brands<\/strong><\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--15742592942296__cae44889-ec98-4d8b-a925-4c3faf881047-168020305842b8e727-0",
+        "template--15742592942296__cae44889-ec98-4d8b-a925-4c3faf881047-168020305842b8e727-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "cae44889-ec98-4d8b-a925-4c3faf881047"
   ]
 }
