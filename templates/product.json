@@ -84,31 +84,10 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
-    },
-    "467d05e5-f258-44b3-8f00-f02592cecc89": {
-      "type": "rich-text",
-      "blocks": {
-        "template--15742593499352__467d05e5-f258-44b3-8f00-f02592cecc89-1680240054f42dbdcd-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>{{ product.vendor }} <\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--15742593499352__467d05e5-f258-44b3-8f00-f02592cecc89-1680240054f42dbdcd-1"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
     "main",
-    "product-recommendations",
-    "467d05e5-f258-44b3-8f00-f02592cecc89"
+    "product-recommendations"
   ]
 }
