@@ -8,43 +8,6 @@
         "padding_bottom": 28
       }
     },
-    "a969ff6e-e85d-4a70-a552-4d538c7987f7": {
-      "type": "rich-text",
-      "blocks": {
-        "template--15742593237208__a969ff6e-e85d-4a70-a552-4d538c7987f7-1680105059287fa319-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Womenswear Retail Associate",
-            "heading_size": "h2"
-          }
-        },
-        "template--15742593237208__a969ff6e-e85d-4a70-a552-4d538c7987f7-1680105059287fa319-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>We are seeking an enthusiastic and motivated Womenswear Retail Associate to join our team. The ideal candidate will be a fashion-conscious individual with a passion for providing excellent customer service.<\/p><p>Wage starting at $16\/hr for weekday, $18\/hr on weekends. 14-32 hours per week available depending on schedule.<\/p><h3>Responsibilities:<\/h3><p>- Greet and assist customers in a friendly and professional manner<\/p><p>- Ensure high levels of customer satisfaction through excellent sales service<\/p><p>- Maintain in-depth knowledge of current fashion trends and products<\/p><p>- Assist with maintaining a clean and organized sales floor<\/p><p>- Receive and process payments through various sales transactions<\/p><p>- Perform inventory management and restocking duties<\/p><p>- Collaborate with team members to achieve sales targets and customer satisfaction goals<\/p><h3>Requirements:<\/h3><p>- High school diploma, or equivalent required<\/p><p>- Previous retail experience highly valued<\/p><p>- Strong communication and interpersonal skills<\/p><p>- Ability to work well in a team environment<\/p><p>- Availability to work flexible hours, including weekends and holidays<\/p><p>- Passion for fashion and staying up-to-date on current trends<\/p>"
-          }
-        },
-        "template--15742593237208__a969ff6e-e85d-4a70-a552-4d538c7987f7-1680105059287fa319-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Apply Here",
-            "button_link": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSd9xttUk8tkhf6ZgCHKoHDsvlh9-VhpsN_JV7Ek3xlOS-K4aQ\/viewform?usp=sf_link",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "template--15742593237208__a969ff6e-e85d-4a70-a552-4d538c7987f7-1680105059287fa319-0",
-        "template--15742593237208__a969ff6e-e85d-4a70-a552-4d538c7987f7-1680105059287fa319-1",
-        "template--15742593237208__a969ff6e-e85d-4a70-a552-4d538c7987f7-1680105059287fa319-2"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "02afe2e3-2faa-4506-8953-ac7c2b5493bd": {
       "type": "rich-text",
       "blocks": {
@@ -122,7 +85,6 @@
   },
   "order": [
     "main",
-    "a969ff6e-e85d-4a70-a552-4d538c7987f7",
     "02afe2e3-2faa-4506-8953-ac7c2b5493bd",
     "16563889950dabba08"
   ]
