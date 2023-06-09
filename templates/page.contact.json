@@ -4,7 +4,10 @@
       "type": "contact-form",
       "settings": {
         "heading": "Contact Us",
-        "description": "Request to consign, let us know what brands/pieces you want us to carry, or just say hi!"
+        "description": "If you have a question, professional inquiry, or anything in between, fill out the form and we'll get back to you!",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
