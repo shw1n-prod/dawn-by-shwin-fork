@@ -358,7 +358,7 @@
                         {{ filter.label | escape }}
                       </button>
 
-                      <p class="mobile-facets__info">{{ "products.facets.max_price" | t: price: max_price_amount }}</p>
+                      {% comment %}<p class="mobile-facets__info">{{ "products.facets.max_price" | t: price: max_price_amount }}</p>{% endcomment %}
 
                       <price-range class="facets__price">
                         <span class="field-currency">{{ cart.currency.symbol }}</span>
