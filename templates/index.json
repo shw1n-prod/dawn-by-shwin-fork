@@ -3,8 +3,8 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "",
-        "collection": "home",
+        "title": "NEW ARRIVALS",
+        "collection": "all",
         "products_to_show": 12,
         "columns_desktop": 4,
         "color_scheme": "background-1",
