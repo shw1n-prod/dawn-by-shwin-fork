@@ -34,11 +34,21 @@
       "settings": {
         "menu": "brands-list"
       }
+    },
+    "c824c172-0970-4730-b97b-83d644485145": {
+      "type": "rich-text",
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 32,
+        "padding_bottom": 0
+      }
     }
   },
   "order": [
     "main",
     "16563889950dabba08",
-    "brands"
+    "brands",
+    "c824c172-0970-4730-b97b-83d644485145"
   ]
 }
