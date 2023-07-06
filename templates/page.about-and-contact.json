@@ -1,30 +1,23 @@
 {
   "sections": {
-    "about": {
-      "type": "about",
+    "cb5b829a-a6d7-44d5-a658-8b982ff09298": {
+      "type": "rich-text",
       "blocks": {
-        "about_us_body": {
-          "type": "paragraph_body",
+        "template--16181438841048__cb5b829a-a6d7-44d5-a658-8b982ff09298-168862191719b8e02b-1": {
+          "type": "text",
           "settings": {
-            "paragraph_body_text": "Located at 119 Newbury Street, Boston MA, Aigo strives to curate a fresh collection of secondhand clothing, combining both vintage and designer brands to create an environment where customers can explore and broaden their fashion horizons. We believe that by perusing the old and the new, one can gain a higher sense of fashion and gain knowledge on their own style and the world's."
-          }
-        },
-        "06768973-b872-4a27-89ef-dd25937a7441": {
-          "type": "paragraph_body",
-          "settings": {
-            "paragraph_body_text": "Follow us on instagram @shop.aigo"
+            "text": "<p>Located at 119 Newbury Street, Boston MA, Aigo strives to curate a fresh collection of secondhand clothing, combining both vintage and designer brands to create an environment where customers can explore and broaden their fashion horizons. We believe that by perusing the old and the new, one can gain a higher sense of fashion and gain knowledge on their own style and the world's.<\/p>"
           }
         }
       },
       "block_order": [
-        "about_us_body",
-        "06768973-b872-4a27-89ef-dd25937a7441"
-      ],
-      "custom_css": [
-
+        "template--16181438841048__cb5b829a-a6d7-44d5-a658-8b982ff09298-168862191719b8e02b-1"
       ],
       "settings": {
-        "page_header": "About Us"
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "form": {
@@ -36,10 +29,21 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "about": {
+      "type": "about",
+      "disabled": true,
+      "custom_css": [
+
+      ],
+      "settings": {
+        "page_header": "About Us"
+      }
     }
   },
   "order": [
-    "about",
-    "form"
+    "cb5b829a-a6d7-44d5-a658-8b982ff09298",
+    "form",
+    "about"
   ]
 }
