@@ -241,7 +241,10 @@
                   {{ 'products.product.include_taxes' | t }}
                 {%- endif -%}
                 {%- if shop.shipping_policy.body != blank -%}
-                  {% comment %}{{ 'products.product.shipping_policy_html' | t: link: shop.shipping_policy.url }}{% endcomment %}
+                  {% comment %}
+                    SHOPIFY shop API PULL FOR SHIPPING POLICY URL
+                    {{ 'products.product.shipping_policy_html' | t: link: shop.shipping_policy.url }}
+                  {% endcomment %}
                   {{ 'products.product.shipping_policy_html' | t: link: 'https://shopaigo.com/pages/policy-shipping' }}
                 {%- endif -%}
               </div>
