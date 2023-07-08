@@ -11,6 +11,7 @@
     "spacing_grid_vertical": 4,
     "buttons_radius": 6,
     "buttons_shadow_opacity": 0,
+    "inputs_radius": 6,
     "card_style": "standard",
     "card_image_padding": 0,
     "card_text_alignment": "center",
