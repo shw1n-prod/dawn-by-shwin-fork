@@ -271,3 +271,7 @@ slider-component {
 .slider-button--prev:not([disabled]):hover .icon {
   transform: rotate(90deg) scale(1.1);
 }
+
+.slider-buttons.no-js-hidden {
+    display: none !Important;
+}
