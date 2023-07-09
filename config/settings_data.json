@@ -73,33 +73,16 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "footer-0": {
-            "type": "link_list",
-            "disabled": true,
-            "settings": {
-              "heading": "Quick links",
-              "menu": "footer"
-            }
-          },
           "footer-1": {
             "type": "link_list",
             "settings": {
               "heading": "Info",
               "menu": "footer"
             }
-          },
-          "footer-2": {
-            "type": "text",
-            "settings": {
-              "heading": "Email Signup",
-              "subtext": ""
-            }
           }
         },
         "block_order": [
-          "footer-0",
-          "footer-1",
-          "footer-2"
+          "footer-1"
         ],
         "settings": {
           "color_scheme": "background-1",
