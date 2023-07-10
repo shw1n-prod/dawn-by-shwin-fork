@@ -53,6 +53,7 @@
 
 .card-information {
   text-align: var(--card-text-alignment);
+  font-style: 'swap'
 }
 
 .card__media,
