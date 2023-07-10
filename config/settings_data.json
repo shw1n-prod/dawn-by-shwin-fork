@@ -45,9 +45,9 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "119 Newbury Street, Suite 10, Boston, MA, 02116 - Drop launching Saturday, 7\/8 at 11AM EST",
+              "text": "119 Newbury Street, Suite 10, Boston, MA, 02116 - @shop.aigo on Instagram",
               "color_scheme": "background-1",
-              "link": ""
+              "link": "https:\/\/www.instagram.com\/shop.aigo\/"
             }
           }
         },
