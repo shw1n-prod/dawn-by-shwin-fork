@@ -136,7 +136,6 @@
 .card__heading {
   margin-top: 0;
   margin-bottom: -5px;
-  font-style: 'swap';
 }
 
 .card__heading:last-child {
