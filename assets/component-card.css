@@ -285,7 +285,6 @@
 .card-information > * {
   line-height: calc(1 + 0.4 / var(--font-body-scale));
   color: rgb(var(--color-foreground));
-  font-family: inherit;
 }
 
 .card-information > .price {
