@@ -2846,3 +2846,7 @@ details-disclosure > details {
     }
   }
 }
+
+.price-item.price-item--regular {
+  font-family: 'ITC Franklin Gothic' !important;
+}
