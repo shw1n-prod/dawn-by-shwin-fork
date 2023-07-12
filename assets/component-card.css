@@ -274,6 +274,8 @@
 .card-information .vendor-wrapper {
   display: block;
   align-self: stretch;
+  margin-top: 0.2rem;
+  margin-bottom: 0.2rem;
 }
 
 .card-information .price-wrapper {
