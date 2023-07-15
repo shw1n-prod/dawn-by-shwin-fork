@@ -2,38 +2,42 @@
   "sections": {
     "about": {
       "type": "about",
+      "disabled": true,
+      "settings": {
+        "page_header": "About Us"
+      }
+    },
+    "ae573532-8f55-4710-8bfc-399a8f213461": {
+      "type": "rich-text",
       "blocks": {
-        "about_us_body": {
-          "type": "paragraph_body",
+        "template--15742804132056__ae573532-8f55-4710-8bfc-399a8f213461-1689439495c563f77a-0": {
+          "type": "heading",
           "settings": {
-            "paragraph_body_text": "Located at 119 Newbury Street, Boston MA, Aigo strives to curate a fresh collection of secondhand clothing, combining both vintage and designer brands to create an environment where customers can explore and broaden their fashion horizons. We believe that by perusing the old and the new, one can gain a higher sense of fashion and knowledge pertaining to one's own style as well as the world's."
+            "heading": "FAQs",
+            "heading_size": "h2"
           }
         },
-        "1cf97700-9b83-4c52-bcfd-88d695688ec0": {
-          "type": "paragraph_body",
+        "template--15742804132056__ae573532-8f55-4710-8bfc-399a8f213461-1689439495c563f77a-1": {
+          "type": "text",
           "settings": {
-            "paragraph_body_text": "Our in-store selection also includes brand new shoe releases in addition to being able to try on any pieces in our collection listed on the website."
-          }
-        },
-        "06768973-b872-4a27-89ef-dd25937a7441": {
-          "type": "paragraph_body",
-          "settings": {
-            "paragraph_body_text": "Follow us on instagram @shop.aigo to stay connected to new drops and announcements."
+            "text": "<p>Q: Where do you source clothing?<\/p><p>A: Our team sources from all over the world, using both local and international markets to bring the best selection to our customers in-store and online!<\/p><p>Q : Do you buy clothing?<\/p><p>A: We typically do not take consignment or buy off of the public. If you are selling very unique items, or selling items in large bulk please reach out to buying@shopaigo.com<\/p><p>Q: Are you hiring?<\/p><p>A: We aren't hiring right now, but we will announce it on IG and in-store and provide an application link if we do decide to open it up.<\/p>"
           }
         }
       },
       "block_order": [
-        "about_us_body",
-        "1cf97700-9b83-4c52-bcfd-88d695688ec0",
-        "06768973-b872-4a27-89ef-dd25937a7441"
+        "template--15742804132056__ae573532-8f55-4710-8bfc-399a8f213461-1689439495c563f77a-0",
+        "template--15742804132056__ae573532-8f55-4710-8bfc-399a8f213461-1689439495c563f77a-1"
       ],
       "settings": {
-        "page_header": "About Us",
-        "about_image": "shopify:\/\/shop_images\/IMG_6919_8878255a-fa3f-4a80-8cec-4e9e15dd5324.jpg"
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
   "order": [
-    "about"
+    "about",
+    "ae573532-8f55-4710-8bfc-399a8f213461"
   ]
 }
