@@ -2,90 +2,13 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
-    },
-    "02afe2e3-2faa-4506-8953-ac7c2b5493bd": {
-      "type": "rich-text",
-      "blocks": {
-        "template--15742593237208__02afe2e3-2faa-4506-8953-ac7c2b5493bd-1680105059287fa319-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Womenswear Buyer",
-            "heading_size": "h2"
-          }
-        },
-        "template--15742593237208__02afe2e3-2faa-4506-8953-ac7c2b5493bd-1680105059287fa319-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>We are currently seeking a Womenswear Clothing Buyer to join our team. The ideal candidate will have a strong understanding of current fashion trends, excellent communication skills, and a sizable knowledge background of the current fashion scene and secondhand markets, as well as a defined personal taste in clothing.<\/p><p>Wage starting at $17\/hr for weekday, $18\/hr on weekends. 14-32 hours per week available depending on schedule.<\/p><h3>Responsibilities:<\/h3><p>- Identify and source new products and brands that align with our company's vision and target audience.<\/p><p>- Manage inventory levels and product flow to ensure the right products are available at the right time.<\/p><p>- Keep up-to-date with current fashion trends and industry developments to inform buying decisions.<\/p><p>- Utilize various online secondhand market platforms to gather inventory at a desirable rate<\/p><p>- Ability to simultaneously switch between duties as a retail associate and buyer<\/p><h3>Requirements:<\/h3><p>- High school diploma, or equivalent required<\/p><p>- Previous retail experience highly valued<\/p><p>- Strong analytical skills<\/p><p>- Excellent communication and interpersonal skills<\/p><p>- Knowledge of retail math and inventory management principles<\/p><p>- Passion for fashion and staying up-to-date on current trends<\/p>"
-          }
-        },
-        "template--15742593237208__02afe2e3-2faa-4506-8953-ac7c2b5493bd-1680105059287fa319-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Apply Here",
-            "button_link": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSd9xttUk8tkhf6ZgCHKoHDsvlh9-VhpsN_JV7Ek3xlOS-K4aQ\/viewform?usp=sf_link",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "template--15742593237208__02afe2e3-2faa-4506-8953-ac7c2b5493bd-1680105059287fa319-0",
-        "template--15742593237208__02afe2e3-2faa-4506-8953-ac7c2b5493bd-1680105059287fa319-1",
-        "template--15742593237208__02afe2e3-2faa-4506-8953-ac7c2b5493bd-1680105059287fa319-2"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
-    "16563889950dabba08": {
-      "type": "rich-text",
-      "blocks": {
-        "165638899523ca344f-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Retail Floor Manager",
-            "heading_size": "h2"
-          }
-        },
-        "165638899523ca344f-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Our store is seeking a highly motivated and detail-oriented Retail Floor Manager to oversee the daily operations of our retail store.<\/p><p>Wage starting at $20\/hr. 24-32 hours per week available depending on schedule.<\/p><p><\/p><h3>Responsibilities:<\/h3><p>- Manage and train a team of sales associates to provide excellent customer service<\/p><p>- Monitor inventory levels and consult with upper management as needed<\/p><p>- Ensure visual merchandising standards are met and maintain a clean and organized store<\/p><p>- Analyze retail processes and make recommendations for improvement<\/p><p>- Handle customer complaints and resolve issues in a timely and professional manner<\/p><p>- Help create and coordinate schedules for sales associates<\/p><p>-Collaborate with upper management to develop and implement store policies and procedures<\/p><h3>Requirements:<\/h3><p>- High school diploma, or equivalent required<\/p><p>- Previous retail management experience highly valued<\/p><p>- Strong leadership and communication skills<\/p><p>- Ability to work in a fast-paced environment and manage multiple tasks simultaneously<\/p><p>- Knowledge of retail operations, including inventory management and visual merchandising<\/p><p>- Availability to work flexible hours<\/p>"
-          }
-        },
-        "165638899523ca344f-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Apply Here",
-            "button_link": "https:\/\/docs.google.com\/forms\/d\/e\/1FAIpQLSf5ROZla608Mxc0NTZYk9Omjnzx2VP-GL1r-4a5ByuxJTNZ4Q\/viewform?usp=sf_link",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "165638899523ca344f-0",
-        "165638899523ca344f-1",
-        "165638899523ca344f-2"
-      ],
-      "settings": {
-        "color_scheme": "background-1",
-        "full_width": false,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
-    "main",
-    "02afe2e3-2faa-4506-8953-ac7c2b5493bd",
-    "16563889950dabba08"
+    "main"
   ]
 }
