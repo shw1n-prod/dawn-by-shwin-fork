@@ -40,8 +40,11 @@
     "checkout_logo_image": "shopify:\/\/shop_images\/4_Aigo_final.png",
     "checkout_logo_position": "center",
     "checkout_logo_size": "large",
-    "checkout_body_background_color": "#f5f5f5",
-    "checkout_input_background_color_mode": "white",
+    "checkout_body_background_color": "#ece3d6",
+    "checkout_input_background_color_mode": "transparent",
+    "checkout_sidebar_background_color": "#ece3d6",
+    "checkout_accent_color": "#121212",
+    "checkout_button_color": "#000000",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
