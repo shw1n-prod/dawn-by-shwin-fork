@@ -66,7 +66,7 @@
         "settings": {
           "color_scheme": "background-1",
           "logo": "shopify:\/\/shop_images\/4_Aigo_final.png",
-          "logo_width": 100,
+          "logo_width": 120,
           "logo_position": "top-center",
           "menu": "main-menu-posthandoff",
           "show_line_separator": true,
