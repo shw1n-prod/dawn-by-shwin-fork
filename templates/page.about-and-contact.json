@@ -20,6 +20,26 @@
         "padding_bottom": 0
       }
     },
+    "5ad5693e-0b47-4dfd-ac2f-2f97422acd5a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16181438841048__5ad5693e-0b47-4dfd-ac2f-2f97422acd5a-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Q: Where do you source clothing?<\/p><p>A: Our team sources from all over the world, using both local and international markets to bring the best selection to our customers in-store and online!<\/p><p>Q : Do you buy clothing?<\/p><p>A: We typically do not take consignment or buy off of the public. If you are selling very unique items, or selling items in large bulk please reach out to buying@shopaigo.com<\/p><p>Q: Are you hiring?<\/p><p>A: We aren't hiring right now, but we will announce it on IG and in-store and provide an application link if we do decide to open it up.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--16181438841048__5ad5693e-0b47-4dfd-ac2f-2f97422acd5a-text-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "form": {
       "type": "contact-form",
       "settings": {
@@ -43,6 +63,7 @@
   },
   "order": [
     "cb5b829a-a6d7-44d5-a658-8b982ff09298",
+    "5ad5693e-0b47-4dfd-ac2f-2f97422acd5a",
     "form",
     "about"
   ]
