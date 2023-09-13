@@ -52,8 +52,42 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/0eaa58acda0077cfa96d09bafa413a5c.webp",
+        "image_2": "shopify:\/\/shop_images\/3bf842185a7dc9bac9abdc2f736d4540.webp",
         "image_overlay_opacity": 0,
         "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "52b734e3-1392-47a5-acb6-01f65e7541e8": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15747994124504__52b734e3-1392-47a5-acb6-01f65e7541e8-buttons-1": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "New Balance x JD Sports SS23",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15747994124504__52b734e3-1392-47a5-acb6-01f65e7541e8-buttons-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/1906_Groupshots-2-1160x1547.jpg",
+        "image_2": "shopify:\/\/shop_images\/1920x840_NB_JD_GLOBAL_1906-5-1920x840.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": true,
@@ -67,6 +101,7 @@
   },
   "order": [
     "lookbook",
-    "476a1ddf-94da-4a84-a158-53bfd7a6c7ea"
+    "476a1ddf-94da-4a84-a158-53bfd7a6c7ea",
+    "52b734e3-1392-47a5-acb6-01f65e7541e8"
   ]
 }
