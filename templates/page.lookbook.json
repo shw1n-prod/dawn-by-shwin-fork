@@ -32,25 +32,41 @@
         "page_header": "LOOKBOOK"
       }
     },
-    "ee2c8c8f-be5e-4847-b0de-d043e5af5459": {
-      "type": "featured-blog",
+    "476a1ddf-94da-4a84-a158-53bfd7a6c7ea": {
+      "type": "image-banner",
+      "blocks": {
+        "d36ec41a-0f32-4223-a2e0-9f948b3ef0c5": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Brigade Pre-FW23",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "d36ec41a-0f32-4223-a2e0-9f948b3ef0c5"
+      ],
       "settings": {
-        "heading": "",
-        "blog": "brigade-pre-fw23",
-        "post_limit": 3,
-        "columns_desktop": 3,
+        "image": "shopify:\/\/shop_images\/0eaa58acda0077cfa96d09bafa413a5c.webp",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
         "color_scheme": "background-1",
-        "show_image": true,
-        "show_date": false,
-        "show_author": false,
-        "show_view_all": true,
-        "padding_top": 36,
-        "padding_bottom": 36
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     }
   },
   "order": [
     "lookbook",
-    "ee2c8c8f-be5e-4847-b0de-d043e5af5459"
+    "476a1ddf-94da-4a84-a158-53bfd7a6c7ea"
   ]
 }
