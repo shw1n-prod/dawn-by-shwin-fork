@@ -1,5 +1,33 @@
 {
   "sections": {
+    "a0df2b9e-eaad-4c50-8d35-be5d3acfee0e": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17091314385112__a0df2b9e-eaad-4c50-8d35-be5d3acfee0e-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Brigade Pre-FW23 Lookbook",
+            "heading_size": "h1"
+          }
+        },
+        "template--17091314385112__a0df2b9e-eaad-4c50-8d35-be5d3acfee0e-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>In collaboration with Brigade, the staff of Aigo along with DJ Lucas participated in the creation of their Pre-FW23 lookbook.<\/p><p><\/p><p>Modeled by <a href=\"https:\/\/www.instagram.com\/djlucas413\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/djlucas413\/\">DJ Lucas<\/a>, <a href=\"https:\/\/www.instagram.com\/yeanikwon\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/yeanikwon\/\">Yeani Kwon<\/a>, <a href=\"https:\/\/www.instagram.com\/a_shw1n\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/a_shw1n\/\">Shwin<\/a>, <a href=\"https:\/\/www.instagram.com\/http.dugan.mp3\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/http.dugan.mp3\/\">Nate Dugan<\/a>, <a href=\"https:\/\/www.instagram.com\/iamhamzahh\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/iamhamzahh\/\">Hamzah Halaissi<\/a>, and <a href=\"https:\/\/www.instagram.com\/carterknobloch\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/carterknobloch\/\">Carter Knobloch<\/a><\/p><p><a href=\"https:\/\/www.instagram.com\/laundrymanlou\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/laundrymanlou\/\">Styled by <\/a><a href=\"https:\/\/www.instagram.com\/laundrymanlou\/\" title=\"https:\/\/www.instagram.com\/laundrymanlou\/\">Luke Smith<\/a><\/p><p>Photography by <a href=\"https:\/\/www.instagram.com\/enduringthewaves\/\" target=\"_blank\" title=\"https:\/\/www.instagram.com\/enduringthewaves\/\">Aaron Maldonado<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17091314385112__a0df2b9e-eaad-4c50-8d35-be5d3acfee0e-heading-1",
+        "template--17091314385112__a0df2b9e-eaad-4c50-8d35-be5d3acfee0e-text-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 0
+      }
+    },
     "lookbook": {
       "type": "lookbook",
       "blocks": {
@@ -342,6 +370,7 @@
     }
   },
   "order": [
+    "a0df2b9e-eaad-4c50-8d35-be5d3acfee0e",
     "lookbook",
     "e8e2c0de-2dbd-41c0-b186-6b3a13e86acf",
     "d33e8a77-2e65-4b70-8e7f-21a25d9da985",
