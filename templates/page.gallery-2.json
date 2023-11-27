@@ -14,14 +14,14 @@
           "type": "tall_image",
           "settings": {
             "image": "shopify:\/\/shop_images\/0eaa58acda0077cfa96d09bafa413a5c.webp",
-            "description": "Modify your image description"
+            "description": ""
           }
         },
         "8cc168e7-db74-49f7-be65-0beba31ca83e": {
           "type": "tall_image",
           "settings": {
             "image": "shopify:\/\/shop_images\/3bf842185a7dc9bac9abdc2f736d4540.webp",
-            "description": "Modify your image description"
+            "description": ""
           }
         }
       },
