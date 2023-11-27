@@ -13,9 +13,9 @@
               srcset="
                 {% if block.settings.image.width > 165 %},{{ block.settings.image.src | img_url: 'master' }} 165w{% endif %}
                 {% if block.settings.image.width > 280 %},{{ block.settings.image.src | img_url: 'master' }} 280w{% endif %}
-                {% if block.settings.image.width > 400 %},{{ block.settings.image.src | img_url: 'master' }} 400w{% endif %} 
+                {% if block.settings.image.width > 315 %},{{ block.settings.image.src | img_url: 'master' }} 315w{% endif %} 
               "
-              sizes="(max-width: 400px) 100vw, 400px"
+              sizes="(max-width: 315px) 100vw, 315px"
               src="{{ block.image | img_url }}"
               loading="lazy"
               alt="{{ block.settings.image.alt }}"
