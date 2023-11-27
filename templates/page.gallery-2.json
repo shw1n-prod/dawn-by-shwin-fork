@@ -6,7 +6,7 @@
         "template--17091314385112__a0df2b9e-eaad-4c50-8d35-be5d3acfee0e-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Brigade Pre-FW23 Lookbook",
+            "heading": "Testing",
             "heading_size": "h1"
           }
         },
@@ -59,9 +59,7 @@
         "8cc168e7-db74-49f7-be65-0beba31ca83e"
       ],
       "settings": {
-        "page_header": "",
-        "padding_top": 0,
-        "padding_bottom": 0
+        "page_header": ""
       }
     },
     "e8e2c0de-2dbd-41c0-b186-6b3a13e86acf": {
@@ -95,9 +93,7 @@
         "cd29cb9d-ddf9-4e6b-ba48-ca020bebb8df"
       ],
       "settings": {
-        "page_header": "",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "page_header": ""
       }
     },
     "d33e8a77-2e65-4b70-8e7f-21a25d9da985": {
@@ -131,9 +127,7 @@
         "be821653-9278-4dc7-8177-e7c5439c9aff"
       ],
       "settings": {
-        "page_header": "",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "page_header": ""
       }
     },
     "91f2e60b-9fe8-4a73-9b0a-043ecccd878e": {
@@ -167,9 +161,7 @@
         "4c9ca8ae-7768-4b55-9b3e-803a3c92c55f"
       ],
       "settings": {
-        "page_header": "",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "page_header": ""
       }
     },
     "31fb845e-2570-4390-a4b0-0b8f31983762": {
@@ -203,9 +195,7 @@
         "0f228dcf-415d-4649-88f2-b920b4746b7d"
       ],
       "settings": {
-        "page_header": "",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "page_header": ""
       }
     },
     "2b305322-5133-41e0-b4c2-81afb6bc8b25": {
@@ -239,9 +229,7 @@
         "e215dcba-43cc-41c5-8a4e-36bfa8a3cc2c"
       ],
       "settings": {
-        "page_header": "",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "page_header": ""
       }
     },
     "0f2fe0b0-7d31-4088-9705-6410e759d76a": {
@@ -275,9 +263,7 @@
         "c3a4c50d-a742-4de6-bbc6-ba856019208d"
       ],
       "settings": {
-        "page_header": "",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "page_header": ""
       }
     },
     "516aba28-5881-43a9-8b8d-66262db47d9e": {
@@ -311,9 +297,7 @@
         "17638eff-4d0d-4bd6-8f7a-2e27ca025b51"
       ],
       "settings": {
-        "page_header": "",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "page_header": ""
       }
     },
     "406c7e0c-25bb-4e29-9471-ac5b01b0f249": {
@@ -347,9 +331,7 @@
         "d5778db0-9dad-4f60-aadd-45dc7daca1f2"
       ],
       "settings": {
-        "page_header": "",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "page_header": ""
       }
     },
     "c76f40f0-14e5-472b-9d44-816df2a5a791": {
@@ -383,9 +365,7 @@
         "988a76ae-eb7e-41e3-ac68-f611775cb89e"
       ],
       "settings": {
-        "page_header": "",
-        "padding_top": 40,
-        "padding_bottom": 52
+        "page_header": ""
       }
     }
   },
