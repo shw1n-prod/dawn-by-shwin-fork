@@ -37,6 +37,7 @@
       "blocks": {
         "d36ec41a-0f32-4223-a2e0-9f948b3ef0c5": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label_1": "Brigade Pre-FW23",
             "button_link_1": "shopify:\/\/pages\/brigade-pre-fw23",
