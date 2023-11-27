@@ -8,8 +8,8 @@
           <div class="tall-image-container image-container">
             <p class="lookbook-desc">{{ block.settings.description }}</p>
             <img 
-              width="{{ block.settings.image.width }}"
-              height="{{ block.settings.image.height }}"
+              width="100%"
+              height="auto"
               srcset="
                 {% if block.settings.image.width > 165 %},{{ block.settings.image.src | img_url: 'master' }} 165w{% endif %}
                 {% if block.settings.image.width > 280 %},{{ block.settings.image.src | img_url: 'master' }} 280w{% endif %}
