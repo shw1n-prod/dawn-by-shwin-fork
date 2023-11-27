@@ -10,6 +10,7 @@
             <img 
               width="{{ block.settings.image.width }}"
               height="{{ block.settings.image.height }}"
+              sizes="(max-width: 315px) 100vw, 315px"
               srcset="
                 {% if block.settings.image.width > 165 %},{{ block.settings.image.src | img_url: 'master' }} 165w{% endif %}
                 {% if block.settings.image.width > 280 %},{{ block.settings.image.src | img_url: 'master' }} 280w{% endif %}
