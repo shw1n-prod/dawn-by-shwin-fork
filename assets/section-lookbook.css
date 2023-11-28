@@ -50,7 +50,7 @@
   width: 100%;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 1440px) {
   .lookbook-container {
     padding: 4.8rem 5.6rem;
   }
