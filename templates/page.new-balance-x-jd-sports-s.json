@@ -28,43 +28,14 @@
         "padding_bottom": 0
       }
     },
-    "lookbook": {
-      "type": "lookbook",
-      "blocks": {
-        "tall_image_1": {
-          "type": "tall_image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/294c2a0dd1aba50adc6d04f01036a83e.webp",
-            "description": ""
-          }
-        },
-        "40abb8d9-0bfe-4a57-be27-719c33db9246": {
-          "type": "tall_image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/a2c56e0d0708a6b57f452f6e5394e151.webp",
-            "description": ""
-          }
-        },
-        "8cc168e7-db74-49f7-be65-0beba31ca83e": {
-          "type": "tall_image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/294c2a0dd1aba50adc6d04f01036a83e_11f85ccc-2628-4cb0-a640-e69e83071f0a.webp",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "tall_image_1",
-        "40abb8d9-0bfe-4a57-be27-719c33db9246",
-        "8cc168e7-db74-49f7-be65-0beba31ca83e"
-      ],
+    "ec513868-8b74-4f41-addd-4d98185227e9": {
+      "type": "new-balance-jd-sports-ss23",
       "settings": {
-        "page_header": ""
       }
     }
   },
   "order": [
     "a0df2b9e-eaad-4c50-8d35-be5d3acfee0e",
-    "lookbook"
+    "ec513868-8b74-4f41-addd-4d98185227e9"
   ]
 }
