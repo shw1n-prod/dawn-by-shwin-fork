@@ -1,8 +1,8 @@
 .lookbook-container {
   padding-top: 0; /* Remove top padding */
   padding-bottom: 0; /* Remove bottom padding */
-  padding-left: 2.4rem; /* Maintain left padding */
-  padding-right: 2.4rem; /* Maintain right padding */
+  padding-left: 2.4px; /* Maintain left padding */
+  padding-right: 2.4px; /* Maintain right padding */
 }
 
 .images-container {
