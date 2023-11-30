@@ -32,6 +32,7 @@
       "type": "video",
       "settings": {
         "heading": "",
+        "cover_image": "shopify:\/\/shop_images\/Screenshot_2023-11-30_at_5.11.12_PM.png",
         "video_url": "https:\/\/vimeo.com\/890085923?share=copy#t=0",
         "description": "",
         "full_width": false,
