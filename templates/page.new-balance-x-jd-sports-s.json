@@ -28,11 +28,6 @@
         "padding_bottom": 8
       }
     },
-    "ec513868-8b74-4f41-addd-4d98185227e9": {
-      "type": "new-balance-jd-sports-ss23",
-      "settings": {
-      }
-    },
     "561d104b-574e-497b-bea9-4f9d1784f3b1": {
       "type": "video",
       "settings": {
@@ -48,7 +43,6 @@
   },
   "order": [
     "a0df2b9e-eaad-4c50-8d35-be5d3acfee0e",
-    "ec513868-8b74-4f41-addd-4d98185227e9",
     "561d104b-574e-497b-bea9-4f9d1784f3b1"
   ]
 }
