@@ -55,7 +55,7 @@
             "collection": "fruits-magazine"
           }
         },
-        "collection_xYnnt6": {
+        "collection_VGrBTA": {
           "type": "collection",
           "settings": {
             "collection": "the-face-magazine"
@@ -65,7 +65,7 @@
       "block_order": [
         "collection_hA8rAE",
         "collection_GVTVdd",
-        "collection_xYnnt6"
+        "collection_VGrBTA"
       ],
       "settings": {
         "heading": "",
