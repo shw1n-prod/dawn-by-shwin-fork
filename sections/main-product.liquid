@@ -235,7 +235,9 @@
             </h1>
           {%- when 'price' -%}
             <div class="no-js-hidden" id="price-{{ section.id }}" role="status" {{ block.shopify_attributes }}>
+              {% if product.available %}
               {%- render 'price', product: product, use_variant: true, show_badges: true, price_class: 'price--large' -%}
+              {% endif %}
             </div>
             {%- if shop.taxes_included or shop.shipping_policy.body != blank -%}
               <div class="product__tax caption rte">
