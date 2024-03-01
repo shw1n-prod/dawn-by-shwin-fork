@@ -149,7 +149,9 @@
 
             <div class='price-wrapper'>
               {% if card_product.available %}
-              {% render 'price', product: card_product, price_class: '' %}
+                {% render 'price', product: card_product, price_class: '' %}
+              {% else %}
+                SOLD OUT
               {% endif %}
             </div>
           </div>
