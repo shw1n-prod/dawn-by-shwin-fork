@@ -148,8 +148,11 @@
             {%- endif -%}
 
             <div class='price-wrapper'>
-              testprice
+              {% if product.available %}
               {% render 'price', product: card_product, price_class: '' %}
+              {% else %}
+              SOLD OUT
+              {% endif %}
             </div>
           </div>
         </div>
