@@ -345,6 +345,7 @@
                       </div>
                     </div>
                   </details>
+                {% comment %}
                 {% when 'price_range' %}
                   <details id="Details-Mobile-{{ forloop.index }}-{{ section.id }}" class="mobile-facets__details js-filter" data-index="mobile-{{ forloop.index }}">
                     <summary class="mobile-facets__summary focus-inset">
@@ -411,6 +412,7 @@
                       </div>
                     </div>
                   </details>
+                {% endcomment %}
                 {% endcase %}
               {%- endfor -%}
 
