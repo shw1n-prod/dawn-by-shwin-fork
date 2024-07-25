@@ -188,6 +188,7 @@
           font-size: 1.6rem;
         }
       }
+      
     {% endstyle %}
 
     {{ 'base.css' | asset_url | stylesheet_tag }}
@@ -260,3 +261,10 @@
     {%- endif -%}
   </body>
 </html>
+<style>
+  @media(max-width:767px){
+    body{
+      overflow-x:hidden !important
+    }
+  }
+</style>
