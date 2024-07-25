@@ -14,6 +14,7 @@
 
 .images-container .image-container {
   width: 100%;
+  height: 100%;
   margin-bottom: 1rem;
   position: relative;
   cursor: none;
@@ -49,7 +50,7 @@
 
 @media (max-width: 1440px) {
   .lookbook-container {
-    padding: 4.8rem 5.6rem;
+    padding: 0rem 5.6rem;
   }
 }
 
@@ -69,7 +70,7 @@
 
 @media (max-width: 738px) {
   .lookbook-container {
-    padding: 4.8rem 2.5rem;
+    padding: 0rem 2.5rem;
   }
   .square-image-container {
     height: 18rem;
@@ -99,5 +100,10 @@
 
   .horizontal-image-container {
     height: 23rem;
+  }
+  .rich-text__text.align-content.align-content--horizontal-center.align-content--vertical-middle.gutter--xlarge {
+
+    padding-bottom: 15px !important;
+
   }
 }
