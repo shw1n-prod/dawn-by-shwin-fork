@@ -2854,3 +2854,7 @@ details-disclosure > details {
 .product-form__buttons{
 max-width:100% !important;
 }
+
+.product-media-modal__content .global-media-settings {
+width: 100% !important;
+}
