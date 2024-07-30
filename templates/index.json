@@ -69,12 +69,54 @@
           "settings": {
             "collection": "the-face-magazine"
           }
+        },
+        "collection_8AXqKx": {
+          "type": "collection",
+          "settings": {
+            "collection": "stussy"
+          }
+        },
+        "collection_NwMDWY": {
+          "type": "collection",
+          "settings": {
+            "collection": "hysteric-glamour"
+          }
+        },
+        "collection_iMi6px": {
+          "type": "collection",
+          "settings": {
+            "collection": "brigade"
+          }
+        },
+        "collection_mfEFrM": {
+          "type": "collection",
+          "settings": {
+            "collection": "cop-copine"
+          }
+        },
+        "collection_YyLbfB": {
+          "type": "collection",
+          "settings": {
+            "collection": "custo-barcelona"
+          }
+        },
+        "collection_jUfBYX": {
+          "type": "collection",
+          "settings": {
+            "collection": "anna-sui"
+          }
         }
       },
       "block_order": [
         "collection_hA8rAE",
         "collection_GVTVdd",
-        "collection_VGrBTA"
+        "collection_VGrBTA",
+        "collection_8AXqKx",
+        "collection_NwMDWY",
+        "collection_iMi6px",
+        "collection_mfEFrM",
+        "collection_YyLbfB",
+        "collection_jUfBYX"
       ],
       "settings": {
         "heading": "",
