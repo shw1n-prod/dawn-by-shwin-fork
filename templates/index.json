@@ -52,24 +52,6 @@
     "collage_TYJgmL": {
       "type": "collage",
       "blocks": {
-        "collection_hA8rAE": {
-          "type": "collection",
-          "settings": {
-            "collection": "popeye-magazine"
-          }
-        },
-        "collection_GVTVdd": {
-          "type": "collection",
-          "settings": {
-            "collection": "fruits-magazine"
-          }
-        },
-        "collection_VGrBTA": {
-          "type": "collection",
-          "settings": {
-            "collection": "the-face-magazine"
-          }
-        },
         "collection_8AXqKx": {
           "type": "collection",
           "settings": {
@@ -108,9 +90,6 @@
         }
       },
       "block_order": [
-        "collection_hA8rAE",
-        "collection_GVTVdd",
-        "collection_VGrBTA",
         "collection_8AXqKx",
         "collection_NwMDWY",
         "collection_iMi6px",
