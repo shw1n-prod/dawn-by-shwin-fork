@@ -1,5 +1,6 @@
 .lookbook-container {
-
+  max-width: 1600px; /* Adjust this value to fit the website's maximum width */
+  margin: 0 auto; /* Centers the container horizontally */
 }
 
 .images-container {
@@ -17,7 +18,7 @@
   height: 100%;
   margin-bottom: 1rem;
   position: relative;
-  cursor: none;
+  cursor: default;
   overflow: visible;
 }
 
@@ -84,6 +85,7 @@
     height: 12rem;
   }
 }
+
 @media (max-width: 600px) {
   .images-container {
     -webkit-column-count: 1;
@@ -102,8 +104,6 @@
     height: 23rem;
   }
   .rich-text__text.align-content.align-content--horizontal-center.align-content--vertical-middle.gutter--xlarge {
-
     padding-bottom: 15px !important;
-
   }
 }
