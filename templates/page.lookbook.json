@@ -31,7 +31,7 @@
         "image": "shopify:\/\/shop_images\/DSC_6648123.jpg",
         "image_2": "shopify:\/\/shop_images\/DSC_650691.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "large",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": true,
