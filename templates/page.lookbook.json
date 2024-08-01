@@ -9,14 +9,14 @@
 */
 {
   "sections": {
-    "image_banner_b4ninW": {
+    "image_banner_wGLyLA": {
       "type": "image-banner",
       "blocks": {
-        "buttons_BB8iGz": {
+        "buttons_jbTbVK": {
           "type": "buttons",
           "settings": {
             "button_label_1": "AIGO SS24 - \"Nantucket Youth\"",
-            "button_link_1": "",
+            "button_link_1": "shopify:\/\/pages\/brigade-pre-fw23",
             "button_style_secondary_1": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -25,13 +25,13 @@
         }
       },
       "block_order": [
-        "buttons_BB8iGz"
+        "buttons_jbTbVK"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/DSC_6648123.jpg",
+        "image": "shopify:\/\/shop_images\/DSC_6648123_385ee2c4-660b-4036-babf-4a4809ac3749.jpg",
         "image_2": "shopify:\/\/shop_images\/DSC_650691.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "large",
+        "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": false,
@@ -64,7 +64,7 @@
         "image": "shopify:\/\/shop_images\/0eaa58acda0077cfa96d09bafa413a5c.webp",
         "image_2": "shopify:\/\/shop_images\/3bf842185a7dc9bac9abdc2f736d4540.webp",
         "image_overlay_opacity": 0,
-        "image_height": "large",
+        "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": false,
@@ -97,7 +97,7 @@
         "image": "shopify:\/\/shop_images\/1906_Groupshots-2-1160x1547.jpg",
         "image_2": "shopify:\/\/shop_images\/1920x840_NB_JD_GLOBAL_1906-5-1920x840.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "large",
+        "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": false,
@@ -110,7 +110,7 @@
     }
   },
   "order": [
-    "image_banner_b4ninW",
+    "image_banner_wGLyLA",
     "476a1ddf-94da-4a84-a158-53bfd7a6c7ea",
     "52b734e3-1392-47a5-acb6-01f65e7541e8"
   ]
