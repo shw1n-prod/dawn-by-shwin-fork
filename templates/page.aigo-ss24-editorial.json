@@ -37,6 +37,7 @@
         "tall_image_eeRqGp": {
           "type": "tall_image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_652397.jpg",
             "description": "Modify your image description"
           }
         }
