@@ -143,19 +143,22 @@
         "tall_image_iPYzYA": {
           "type": "tall_image",
           "settings": {
-            "description": "Modify your image description"
+            "image": "shopify:\/\/shop_images\/AIGO_SS_24192945.jpg",
+            "description": ""
           }
         },
         "tall_image_zEBPYe": {
           "type": "tall_image",
           "settings": {
-            "description": "Modify your image description"
+            "image": "shopify:\/\/shop_images\/yeani2.jpg",
+            "description": ""
           }
         },
         "tall_image_AJY6Ym": {
           "type": "tall_image",
           "settings": {
-            "description": "Modify your image description"
+            "image": "shopify:\/\/shop_images\/yeani5.jpg",
+            "description": ""
           }
         }
       },
@@ -174,19 +177,22 @@
         "tall_image_zrKTTN": {
           "type": "tall_image",
           "settings": {
-            "description": "Modify your image description"
+            "image": "shopify:\/\/shop_images\/charles4.jpg",
+            "description": ""
           }
         },
         "tall_image_pNYbyx": {
           "type": "tall_image",
           "settings": {
-            "description": "Modify your image description"
+            "image": "shopify:\/\/shop_images\/AIGO_SS_241936317.jpg",
+            "description": ""
           }
         },
         "tall_image_KNbNBa": {
           "type": "tall_image",
           "settings": {
-            "description": "Modify your image description"
+            "image": "shopify:\/\/shop_images\/AIGO_SS_241951727.jpg",
+            "description": ""
           }
         }
       },
@@ -205,18 +211,21 @@
         "tall_image_39ANr6": {
           "type": "tall_image",
           "settings": {
-            "description": "Modify your image description"
+            "image": "shopify:\/\/shop_images\/DSC_6759163.jpg",
+            "description": ""
           }
         },
         "tall_image_GCeRfi": {
           "type": "tall_image",
           "settings": {
-            "description": "Modify your image description"
+            "image": "shopify:\/\/shop_images\/DSC_6809178.jpg",
+            "description": ""
           }
         },
         "tall_image_XH8HPh": {
           "type": "tall_image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_6833179.jpg",
             "description": ""
           }
         }
@@ -250,34 +259,19 @@
           "settings": {
             "description": "Modify your image description"
           }
-        },
-        "tall_image_d9qiKY": {
-          "type": "tall_image",
-          "settings": {
-            "description": "Modify your image description"
-          }
-        },
-        "tall_image_jrcTgC": {
-          "type": "tall_image",
-          "settings": {
-            "description": "Modify your image description"
-          }
-        },
-        "tall_image_QyQVeT": {
-          "type": "tall_image",
-          "settings": {
-            "description": "Modify your image description"
-          }
         }
       },
       "block_order": [
         "tall_image_k89D3w",
         "tall_image_cJPky3",
-        "tall_image_DMYjC8",
-        "tall_image_d9qiKY",
-        "tall_image_jrcTgC",
-        "tall_image_QyQVeT"
+        "tall_image_DMYjC8"
       ],
+      "settings": {
+        "page_header": ""
+      }
+    },
+    "lookbook_mewJ8r": {
+      "type": "lookbook",
       "settings": {
         "page_header": ""
       }
@@ -292,6 +286,7 @@
     "lookbook_QNHqRN",
     "lookbook_qYf7rn",
     "lookbook_RwwKfF",
-    "lookbook_7DEJLi"
+    "lookbook_7DEJLi",
+    "lookbook_mewJ8r"
   ]
 }
