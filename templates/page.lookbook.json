@@ -9,36 +9,37 @@
 */
 {
   "sections": {
-    "lookbook": {
-      "type": "lookbook",
+    "image_banner_b4ninW": {
+      "type": "image-banner",
       "blocks": {
-        "tall_image_1": {
-          "type": "tall_image",
+        "buttons_BB8iGz": {
+          "type": "buttons",
           "settings": {
-            "description": "Tall image example"
-          }
-        },
-        "square_image_1": {
-          "type": "square_image",
-          "settings": {
-            "description": "Square image example"
-          }
-        },
-        "horizontal_image_1": {
-          "type": "horizontal_image",
-          "settings": {
-            "description": "Horizontal image example"
+            "button_label_1": "AIGO SS24 - \"Nantucket Youth\"",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
           }
         }
       },
       "block_order": [
-        "tall_image_1",
-        "square_image_1",
-        "horizontal_image_1"
+        "buttons_BB8iGz"
       ],
-      "disabled": true,
       "settings": {
-        "page_header": "LOOKBOOK"
+        "image": "shopify:\/\/shop_images\/DSC_6648123.jpg",
+        "image_2": "shopify:\/\/shop_images\/DSC_650691.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "476a1ddf-94da-4a84-a158-53bfd7a6c7ea": {
@@ -106,52 +107,11 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
-    },
-    "image_banner_b4ninW": {
-      "type": "image-banner",
-      "blocks": {
-        "heading_dGy9Hd": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image banner",
-            "heading_size": "medium"
-          }
-        },
-        "buttons_BB8iGz": {
-          "type": "buttons",
-          "disabled": true,
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_dGy9Hd",
-        "buttons_BB8iGz"
-      ],
-      "settings": {
-        "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": false,
-        "desktop_content_position": "middle-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
-        "show_text_below": true
-      }
     }
   },
   "order": [
-    "lookbook",
+    "image_banner_b4ninW",
     "476a1ddf-94da-4a84-a158-53bfd7a6c7ea",
-    "52b734e3-1392-47a5-acb6-01f65e7541e8",
-    "image_banner_b4ninW"
+    "52b734e3-1392-47a5-acb6-01f65e7541e8"
   ]
 }
