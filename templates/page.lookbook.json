@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "lookbook": {
@@ -97,11 +106,52 @@
         "stack_images_on_mobile": true,
         "show_text_below": true
       }
+    },
+    "image_banner_b4ninW": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_dGy9Hd": {
+          "type": "heading",
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "medium"
+          }
+        },
+        "buttons_BB8iGz": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_dGy9Hd",
+        "buttons_BB8iGz"
+      ],
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
     "lookbook",
     "476a1ddf-94da-4a84-a158-53bfd7a6c7ea",
-    "52b734e3-1392-47a5-acb6-01f65e7541e8"
+    "52b734e3-1392-47a5-acb6-01f65e7541e8",
+    "image_banner_b4ninW"
   ]
 }
