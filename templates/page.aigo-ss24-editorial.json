@@ -9,6 +9,34 @@
 */
 {
   "sections": {
+    "rich_text_FXRaBm": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_KrE4G3": {
+          "type": "heading",
+          "settings": {
+            "heading": "Aigo SS24 - \"Nantucket Youth\"",
+            "heading_size": "h1"
+          }
+        },
+        "text_4EpGB9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>For SS24, Aigo shot in Nantucket, Massachusetts to present a curated selection of their clothing and styling expressing to express their own direction for the coming season.<\/p><p><\/p><p>Modeled by <a href=\"https:\/\/www.instagram.com\/heven_________\/\" title=\"https:\/\/www.instagram.com\/heven_________\/\">Heven Bekele<\/a>, <a href=\"https:\/\/www.instagram.com\/seee.love\/\" title=\"https:\/\/www.instagram.com\/seee.love\/\">Charles Love<\/a>, <a href=\"https:\/\/www.instagram.com\/yeanikwon\/\" title=\"https:\/\/www.instagram.com\/yeanikwon\/\">Yeani Kwon<\/a>, and <a href=\"https:\/\/www.instagram.com\/char.fine\/\" title=\"https:\/\/www.instagram.com\/char.fine\/\">Charlie Fine<\/a><\/p><p>Styled by <a href=\"https:\/\/www.instagram.com\/a_shw1n\/\" title=\"https:\/\/www.instagram.com\/a_shw1n\/\">Ashwin Vittal<\/a> and <a href=\"https:\/\/www.instagram.com\/meera1.000\/\" title=\"https:\/\/www.instagram.com\/meera1.000\/\">Meera Singh<\/a><\/p><p><\/p><p>Photography by <a href=\"https:\/\/www.instagram.com\/malakhaipearson\/\" title=\"https:\/\/www.instagram.com\/malakhaipearson\/\">Malakhai Pearson<\/a> and <a href=\"https:\/\/www.instagram.com\/http.dugan.mp3\/\" title=\"https:\/\/www.instagram.com\/http.dugan.mp3\/\">Nate Dugan<\/a><\/p><p><\/p><p>Production by <a href=\"https:\/\/www.instagram.com\/thunderroadprojects\/\" title=\"https:\/\/www.instagram.com\/thunderroadprojects\/\">Thunder Road Projects<\/a><\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_KrE4G3",
+        "text_4EpGB9"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "main": {
       "type": "main-page",
       "disabled": true,
@@ -358,9 +386,44 @@
       "settings": {
         "page_header": ""
       }
+    },
+    "lookbook_WEpzQh": {
+      "type": "lookbook",
+      "blocks": {
+        "tall_image_AVwBz9": {
+          "type": "tall_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_6733152.jpg",
+            "description": "Modify your image description"
+          }
+        },
+        "tall_image_irbRzm": {
+          "type": "tall_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_6687141.jpg",
+            "description": "Modify your image description"
+          }
+        },
+        "tall_image_EnQpqb": {
+          "type": "tall_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC_6693144.jpg",
+            "description": "Modify your image description"
+          }
+        }
+      },
+      "block_order": [
+        "tall_image_AVwBz9",
+        "tall_image_irbRzm",
+        "tall_image_EnQpqb"
+      ],
+      "settings": {
+        "page_header": ""
+      }
     }
   },
   "order": [
+    "rich_text_FXRaBm",
     "main",
     "lookbook_GPtqk4",
     "lookbook_tm9FXr",
@@ -372,6 +435,7 @@
     "lookbook_mewJ8r",
     "lookbook_7DEJLi",
     "lookbook_7UJ7xi",
-    "lookbook_pNN43T"
+    "lookbook_pNN43T",
+    "lookbook_WEpzQh"
   ]
 }
