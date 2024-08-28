@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "cb5b829a-a6d7-44d5-a658-8b982ff09298": {
@@ -26,7 +35,7 @@
         "template--16181438841048__5ad5693e-0b47-4dfd-ac2f-2f97422acd5a-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Q: Where do you source clothing?<\/p><p>A: Our team sources from all over the world, using both local and international markets to bring the best selection to our customers in-store and online!<\/p><p>Q : Do you buy clothing?<\/p><p>A: We typically do not take consignment or buy off of the public. If you are selling very unique items, or selling items in large bulk please reach out to buying@shopaigo.com<\/p><p>Q: Are you hiring?<\/p><p>A: We aren't hiring right now, but we will announce it on IG and in-store and provide an application link if we do decide to open it up.<\/p>"
+            "text": "<p>Q: Where do you source clothing?<\/p><p>A: Our team sources from all over the world, using both local and international markets to bring the best selection to our customers in-store and online!<\/p><p>Q : Do you buy clothing?<\/p><p>A: We typically do not take consignment or buy off of the public. If you are selling very unique items, or selling items in large bulk please reach out to buying@shopaigo.com<\/p><p>Q: Are you hiring?<\/p><p>A: We aren't hiring at the moment! If we have a position to fill, we will announce it on social media and provide an application link with the relevant details.<\/p>"
           }
         }
       },
