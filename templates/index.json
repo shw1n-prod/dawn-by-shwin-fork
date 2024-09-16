@@ -97,6 +97,7 @@
         "collection_YyLbfB",
         "collection_jUfBYX"
       ],
+      "disabled": true,
       "settings": {
         "heading": "",
         "desktop_layout": "left",
@@ -121,6 +122,7 @@
       "block_order": [
         "button_aY6yEH"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "background-1",
         "full_width": true,
