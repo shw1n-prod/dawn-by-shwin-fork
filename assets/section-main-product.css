@@ -1142,6 +1142,10 @@ a.product__text {
     width: 1.4rem;
     height: 1.4rem;
   }
+  .product-media-modal__dialog .global-media-settings--no-shadow {
+    height: 50% !important;
+    width: 50% !important;
+  }
 }
 
 .thumbnail-list__item {
@@ -1153,3 +1157,6 @@ a.product__text {
   display: block;
   padding-bottom: 100%;
 }
+
+
+
