@@ -2858,3 +2858,9 @@ max-width:100% !important;
 .product-media-modal__content .global-media-settings {
 width: 100% !important;
 }
+
+html,body{
+  overflow-x:hidden !important;
+}
+
+
