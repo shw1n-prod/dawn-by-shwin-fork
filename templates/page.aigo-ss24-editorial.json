@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "rich_text_FXRaBm": {
@@ -22,7 +22,7 @@
         "text_4EpGB9": {
           "type": "text",
           "settings": {
-            "text": "<p>For SS24, Aigo shot in Nantucket, Massachusetts to present a curated selection of their clothing and styling, expressing their direction for the coming season.<\/p><p><\/p><p>Modeled by <a href=\"https:\/\/www.instagram.com\/heven_________\/\" title=\"https:\/\/www.instagram.com\/heven_________\/\">Heven Bekele<\/a>, <a href=\"https:\/\/www.instagram.com\/seee.love\/\" title=\"https:\/\/www.instagram.com\/seee.love\/\">Charles Love<\/a>, <a href=\"https:\/\/www.instagram.com\/yeanikwon\/\" title=\"https:\/\/www.instagram.com\/yeanikwon\/\">Yeani Kwon<\/a>, and <a href=\"https:\/\/www.instagram.com\/char.fine\/\" title=\"https:\/\/www.instagram.com\/char.fine\/\">Charlie Fine<\/a><\/p><p>Styled by <a href=\"https:\/\/www.instagram.com\/a_shw1n\/\" title=\"https:\/\/www.instagram.com\/a_shw1n\/\">Ashwin Vittal<\/a> and <a href=\"https:\/\/www.instagram.com\/meera1.000\/\" title=\"https:\/\/www.instagram.com\/meera1.000\/\">Meera Singh<\/a><\/p><p><\/p><p>Photography by <a href=\"https:\/\/www.instagram.com\/malakhaipearson\/\" title=\"https:\/\/www.instagram.com\/malakhaipearson\/\">Malakhai Pearson<\/a> and <a href=\"https:\/\/www.instagram.com\/http.dugan.mp3\/\" title=\"https:\/\/www.instagram.com\/http.dugan.mp3\/\">Nate Dugan<\/a><\/p><p><\/p><p>Production by <a href=\"https:\/\/www.instagram.com\/thunderroadprojects\/\" title=\"https:\/\/www.instagram.com\/thunderroadprojects\/\">Thunder Road Projects<\/a><\/p>"
+            "text": "<p>For SS24, Aigo shot in Nantucket, Massachusetts to present a curated selection of their clothing and styling, expressing their direction for the coming season.</p><p></p><p>Modeled by <a href=\"https://www.instagram.com/heven_________/\" title=\"https://www.instagram.com/heven_________/\">Heven Bekele</a>, <a href=\"https://www.instagram.com/seee.love/\" title=\"https://www.instagram.com/seee.love/\">Charles Love</a>, <a href=\"https://www.instagram.com/yeanikwon/\" title=\"https://www.instagram.com/yeanikwon/\">Yeani Kwon</a>, and <a href=\"https://www.instagram.com/char.fine/\" title=\"https://www.instagram.com/char.fine/\">Charlie Fine</a></p><p>Styled by <a href=\"https://www.instagram.com/a_shw1n/\" title=\"https://www.instagram.com/a_shw1n/\">Ashwin Vittal</a> and <a href=\"https://www.instagram.com/meera1.000/\" title=\"https://www.instagram.com/meera1.000/\">Meera Singh</a></p><p></p><p>Photography by <a href=\"https://www.instagram.com/malakhaipearson/\" title=\"https://www.instagram.com/malakhaipearson/\">Malakhai Pearson</a> and <a href=\"https://www.instagram.com/http.dugan.mp3/\" title=\"https://www.instagram.com/http.dugan.mp3/\">Nate Dugan</a></p><p></p><p>Production by <a href=\"https://www.instagram.com/thunderroadprojects/\" title=\"https://www.instagram.com/thunderroadprojects/\">Thunder Road Projects</a></p>"
           }
         }
       },
@@ -51,21 +51,21 @@
         "tall_image_YkcWDE": {
           "type": "tall_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_647787.jpg",
+            "image": "shopify://shop_images/DSC_647787.jpg",
             "description": ""
           }
         },
         "tall_image_YJHDtx": {
           "type": "tall_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_650691.jpg",
+            "image": "shopify://shop_images/DSC_650691.jpg",
             "description": ""
           }
         },
         "tall_image_eeRqGp": {
           "type": "tall_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_652397.jpg",
+            "image": "shopify://shop_images/DSC_652397.jpg",
             "description": ""
           }
         }
@@ -85,21 +85,21 @@
         "tall_image_FLiEKL": {
           "type": "tall_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_652999.jpg",
+            "image": "shopify://shop_images/DSC_652999.jpg",
             "description": ""
           }
         },
         "tall_image_wKg6RC": {
           "type": "tall_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_6563103.jpg",
+            "image": "shopify://shop_images/DSC_6563103.jpg",
             "description": ""
           }
         },
         "tall_image_jMjVkV": {
           "type": "tall_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_6606112.jpg",
+            "image": "shopify://shop_images/DSC_6606112.jpg",
             "description": ""
           }
         }
@@ -119,21 +119,21 @@
         "tall_image_MkXFBa": {
           "type": "tall_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_6648123.jpg",
+            "image": "shopify://shop_images/DSC_6648123.jpg",
             "description": ""
           }
         },
         "tall_image_FEANKq": {
           "type": "tall_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_6650125.jpg",
+            "image": "shopify://shop_images/DSC_6650125.jpg",
             "description": ""
           }
         },
         "tall_image_Dqehz6": {
           "type": "tall_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_6656129.jpg",
+            "image": "shopify://shop_images/DSC_6656129.jpg",
             "description": ""
           }
         }
@@ -153,6 +153,7 @@
         "horizontal_image_iPRGRJ": {
           "type": "horizontal_image",
           "settings": {
+            "image": "shopify://shop_images/AIGO_SS_241933613_1.jpg",
             "description": ""
           }
         }
@@ -171,21 +172,21 @@
         "tall_image_iPYzYA": {
           "type": "tall_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/AIGO_SS_24192945.jpg",
+            "image": "shopify://shop_images/AIGO_SS_24192945.jpg",
             "description": ""
           }
         },
         "tall_image_zEBPYe": {
           "type": "tall_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/yeani2.jpg",
+            "image": "shopify://shop_images/yeani2.jpg",
             "description": ""
           }
         },
         "tall_image_AJY6Ym": {
           "type": "tall_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/yeani5.jpg",
+            "image": "shopify://shop_images/yeani5.jpg",
             "description": ""
           }
         }
@@ -205,21 +206,21 @@
         "tall_image_zrKTTN": {
           "type": "tall_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/charles4.jpg",
+            "image": "shopify://shop_images/charles4.jpg",
             "description": ""
           }
         },
         "tall_image_pNYbyx": {
           "type": "tall_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/AIGO_SS_241936317.jpg",
+            "image": "shopify://shop_images/AIGO_SS_241936317.jpg",
             "description": ""
           }
         },
         "tall_image_KNbNBa": {
           "type": "tall_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/AIGO_SS_241951727.jpg",
+            "image": "shopify://shop_images/AIGO_SS_241951727.jpg",
             "description": ""
           }
         }
@@ -239,21 +240,21 @@
         "tall_image_39ANr6": {
           "type": "tall_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_6759163.jpg",
+            "image": "shopify://shop_images/DSC_6759163.jpg",
             "description": ""
           }
         },
         "tall_image_GCeRfi": {
           "type": "tall_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_6809178.jpg",
+            "image": "shopify://shop_images/DSC_6809178.jpg",
             "description": ""
           }
         },
         "tall_image_XH8HPh": {
           "type": "tall_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_6833179.jpg",
+            "image": "shopify://shop_images/DSC_6833179.jpg",
             "description": ""
           }
         }
@@ -291,21 +292,21 @@
         "tall_image_k89D3w": {
           "type": "tall_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_640071.jpg",
+            "image": "shopify://shop_images/DSC_640071.jpg",
             "description": ""
           }
         },
         "tall_image_cJPky3": {
           "type": "tall_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_631767.jpg",
+            "image": "shopify://shop_images/DSC_631767.jpg",
             "description": ""
           }
         },
         "tall_image_DMYjC8": {
           "type": "tall_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Charles7.jpg",
+            "image": "shopify://shop_images/Charles7.jpg",
             "description": ""
           }
         }
@@ -325,21 +326,21 @@
         "tall_image_XMk8Fd": {
           "type": "tall_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_633768.jpg",
+            "image": "shopify://shop_images/DSC_633768.jpg",
             "description": ""
           }
         },
         "tall_image_dPbHkE": {
           "type": "tall_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_624651.jpg",
+            "image": "shopify://shop_images/DSC_624651.jpg",
             "description": ""
           }
         },
         "tall_image_4KQWHB": {
           "type": "tall_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_629161.jpg",
+            "image": "shopify://shop_images/DSC_629161.jpg",
             "description": ""
           }
         }
@@ -359,21 +360,21 @@
         "tall_image_GUVBMa": {
           "type": "tall_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Group5.jpg",
+            "image": "shopify://shop_images/Group5.jpg",
             "description": ""
           }
         },
         "tall_image_ppaDcg": {
           "type": "tall_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/heven3.jpg",
+            "image": "shopify://shop_images/heven3.jpg",
             "description": ""
           }
         },
         "tall_image_rjzxrB": {
           "type": "tall_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_639469.jpg",
+            "image": "shopify://shop_images/DSC_639469.jpg",
             "description": ""
           }
         }
@@ -393,21 +394,21 @@
         "tall_image_AVwBz9": {
           "type": "tall_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_6733152.jpg",
+            "image": "shopify://shop_images/DSC_6733152.jpg",
             "description": ""
           }
         },
         "tall_image_irbRzm": {
           "type": "tall_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_6687141.jpg",
+            "image": "shopify://shop_images/DSC_6687141.jpg",
             "description": ""
           }
         },
         "tall_image_EnQpqb": {
           "type": "tall_image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC_6693144.jpg",
+            "image": "shopify://shop_images/DSC_6693144.jpg",
             "description": ""
           }
         }
