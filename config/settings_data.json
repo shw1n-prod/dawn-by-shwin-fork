@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "colors_accent_2": "#f2f2f2",
@@ -40,14 +40,14 @@
     "media_shadow_vertical_offset": 0,
     "badge_corner_radius": 40,
     "accent_icons": "text",
-    "social_twitter_link": "twitter.com\/shopaigo",
-    "social_instagram_link": "http:\/\/instagram.com\/shop.aigo",
-    "social_tiktok_link": "https:\/\/tiktok.com\/@shop.aigo",
+    "social_twitter_link": "twitter.com/shopaigo",
+    "social_instagram_link": "http://instagram.com/shop.aigo",
+    "social_tiktok_link": "https://tiktok.com/@shop.aigo",
     "predictive_search_show_vendor": true,
     "predictive_search_show_price": true,
-    "favicon": "shopify:\/\/shop_images\/5_Aigo_A_LetterForm_1.png",
+    "favicon": "shopify://shop_images/5_Aigo_A_LetterForm_1.png",
     "currency_code_enabled": false,
-    "checkout_logo_image": "shopify:\/\/shop_images\/4_Aigo_final.png",
+    "checkout_logo_image": "shopify://shop_images/4_Aigo_final.png",
     "checkout_logo_position": "center",
     "checkout_logo_size": "large",
     "checkout_body_background_color": "#ece3d6",
@@ -61,27 +61,26 @@
         "blocks": {
           "announcement-bar-0": {
             "type": "announcement",
+            "disabled": true,
             "settings": {
               "text": "119 Newbury Street, Suite 10, Boston, MA, 02116 - @shop.aigo on Instagram",
               "color_scheme": "background-1",
-              "link": "https:\/\/www.instagram.com\/shop.aigo\/"
+              "link": "https://www.instagram.com/shop.aigo/"
             }
           }
         },
         "block_order": [
           "announcement-bar-0"
         ],
-        "settings": {
-        }
+        "settings": {}
       },
       "header": {
         "type": "header",
         "settings": {
           "color_scheme": "background-1",
-          "logo": "shopify:\/\/shop_images\/4_Aigo_final.png",
           "logo_width": 120,
           "logo_position": "top-center",
-          "menu": "main-menu-posthandoff",
+          "menu": "",
           "show_line_separator": true,
           "enable_sticky_header": false,
           "margin_bottom": 0
@@ -117,7 +116,7 @@
       "main-password-header": {
         "type": "main-password-header",
         "settings": {
-          "logo": "shopify:\/\/shop_images\/4_Aigo_f7db45c8-4ec7-46ac-ae4b-4e0c66ca217a.png",
+          "logo": "shopify://shop_images/4_Aigo_f7db45c8-4ec7-46ac-ae4b-4e0c66ca217a.png",
           "logo_max_width": 130,
           "color_scheme": "background-1"
         }
@@ -163,17 +162,7 @@
         }
       }
     },
-    "content_for_index": [
-
-    ],
-    "blocks": {
-      "14327677521557774844": {
-        "type": "shopify:\/\/apps\/simprosys-google-shopping-feed\/blocks\/core_settings_block\/1f0b859e-9fa6-4007-97e8-4513aff5ff3b",
-        "disabled": false,
-        "settings": {
-        }
-      }
-    }
+    "content_for_index": []
   },
   "presets": {
     "Default": {
@@ -191,8 +180,7 @@
           "block_order": [
             "announcement-bar-0"
           ],
-          "settings": {
-          }
+          "settings": {}
         },
         "header": {
           "type": "header",
@@ -205,8 +193,7 @@
           "blocks": {
             "footer-0": {
               "type": "link_list",
-              "settings": {
-              }
+              "settings": {}
             },
             "footer-1": {
               "type": "link_list",
@@ -235,13 +222,11 @@
         },
         "main-password-header": {
           "type": "main-password-header",
-          "settings": {
-          }
+          "settings": {}
         },
         "main-password-footer": {
           "type": "main-password-footer",
-          "settings": {
-          }
+          "settings": {}
         }
       }
     }
